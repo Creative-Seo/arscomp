@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Галерея';
 $description = '';
 $keywords = '';
 $h1 = '';
