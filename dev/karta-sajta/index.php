@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Карта сайта';
 $description = '';
 $keywords = '';
 

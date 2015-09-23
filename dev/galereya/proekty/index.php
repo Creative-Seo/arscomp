@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Проекты';
 $description = '';
 $keywords = '';
 

@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Технология сборно-монолитного каркаса';
 $description = '';
 $keywords = '';
 

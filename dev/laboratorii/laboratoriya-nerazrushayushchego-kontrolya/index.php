@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Лаборатория неразрушающего контроля';
 $description = '';
 $keywords = '';
 

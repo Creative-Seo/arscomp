@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Строительство';
 $description = '';
 $keywords = '';
 

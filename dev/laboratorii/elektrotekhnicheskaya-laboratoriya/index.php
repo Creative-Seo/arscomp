@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Электротехническая лаборатория';
 $description = '';
 $keywords = '';
 

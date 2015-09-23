@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'Экологическая лаборатория';
 $description = '';
 $keywords = '';
 
