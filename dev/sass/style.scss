@@ -1,0 +1,41 @@
+@import "variables";
+@import "bootstrap";
+//@import "header";
+//@import "navbar";
+
+//TYPOGRAPHY
+h1,.h1 {padding-bottom:20px;}
+h2,.h2 {
+		text-align: center;
+		padding: 10px;
+		text-transform: uppercase;
+		font-size: 22px;
+	}
+.pull-left {
+    padding-right: 10px;
+}
+//TYPOGRAPHY
+// SLIDER
+
+// SLIDER
+//MAP
+.map-yandex {padding: 10px;height: 50vh;}
+//MAP
+//FOOTER
+.house {width: 100%; height:auto; max-height: 200px;}
+.footer {
+	padding-bottom:30px;
+	background-color: #212221;
+	color: #fff;
+	position: relative;
+	li{
+		padding: 5px;
+		span, a {
+			padding: 5px;
+			color: #999999;
+		}
+	}
+	&-stack{padding: 10px;}
+	&-hr{border-top: 1px solid #ccc;}
+}
+//FOOTER
