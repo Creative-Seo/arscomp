@@ -1,6 +1,6 @@
 <?php
-$title = '';
-$description = '';
+$title = 'Новости';
+$description = 'Новости ОКП &quot;АРС&quot; 8 800 7000 672';
 $keywords = '';
 $h1 = 'Новости';
 

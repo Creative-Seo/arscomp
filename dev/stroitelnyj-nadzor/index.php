@@ -1,5 +1,5 @@
 <?php
-$title = '';
+$title = 'СТРОИТЕЛЬНЫЙ НАДЗОР';
 $description = '';
 $keywords = '';
 $h1 = 'Cтроительный надзор';
@@ -12,3 +12,4 @@ include($root.'blocks/h1.php');
 include('content.php');
 include($root.'blocks/footer.php');
 ?>
+

@@ -1,7 +1,7 @@
 <?php
-$title = '';
+$title = 'СТРОИТЕЛЬНО-МОНТАЖНЫЕ РАБОТЫ';
 $description = '';
-$keywords = '';
+$keywords = 'Строительство, строительство домов, строительство во Владимире, строительно-монтажные работы,';
 $h1 = 'Строительно-монтажные работы';
 
 $root = '../';
@@ -12,3 +12,4 @@ include($root.'blocks/h1.php');
 include('content.php');
 include($root.'blocks/footer.php');
 ?>
+
