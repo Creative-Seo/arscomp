@@ -1,27 +1,24 @@
 <div class="wrapper grid-block content-texture">
-						<div id="main" class="grid-block">
-			
+		<div id="main" class="grid-block">
 				<div id="maininner" class="grid-box" style="min-height: 612px;">
-										<section id="innertop" class="grid-block"><div class="wrapper"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest" style="min-height: 288px;">
+		<section id="innertop" class="grid-block"><div class="wrapper"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest" style="min-height: 288px;">
 
 			<div data-tabs="93">
 	<div class="sprocket-tabs layout-top animation-slideandfade">
 					<ul class="sprocket-tabs-nav">
-								<li data-tabs-navigation="" class="active"><span class="sprocket-tabs-inner">
-										<span class="sprocket-tabs-text">
-						О нас					</span>
+					<li data-tabs-navigation="" class="active"><span class="sprocket-tabs-inner">
+				<span class="sprocket-tabs-text">О нас</span>
 				</span></li>
-								<li data-tabs-navigation="" class=""><span class="sprocket-tabs-inner">
-										<span class="sprocket-tabs-text">
-						Штат Компании					</span>
+				<li data-tabs-navigation="" class=""><span class="sprocket-tabs-inner">
+				<span class="sprocket-tabs-text">Штат Компании</span>
+				</span>
+				</li>
+						<li data-tabs-navigation="" class=""><span class="sprocket-tabs-inner">
+				<span class="sprocket-tabs-text">Преимущества</span>
 				</span></li>
-								<li data-tabs-navigation="" class=""><span class="sprocket-tabs-inner">
-										<span class="sprocket-tabs-text">
-						Преимущества					</span>
-				</span></li>
-							</ul>
+					</ul>
 				<div class="sprocket-tabs-panels">
-			<div class="sprocket-tabs-panel active" data-tabs-panel="">
+	<div class="sprocket-tabs-panel active" data-tabs-panel="">
 	<h3 class="tab-title"><strong>Особое Конструкторское Подразделение </strong>"АРС"</h3>
 <p><img class="hidden-img size-auto" src="/images/okpars.ru/tabs/triangle.png" alt="image" border="0"></p>
 <p class="hidden-text">Полный спектр услуг по согласованию, сопровождению проектов строительства, разработку обоснований инвестиций, рабочей документации для нового строительства, реконструкции, капитального ремонта, ландшафтной архитектуры, градостроительного проектирования...</p>
@@ -35,28 +32,19 @@
 	<h3 class="tab-title"><strong>Конкурентные&nbsp;</strong>Преимущества</h3>
 <p><img class="hidden-img size-auto" src="/images/okpars.ru/tabs/launch.png" alt="image" border="0"></p>
 <p class="hidden-text">Соблюдение сроков исполнения заказа,ответственный подход к большим и малым объектам, собственные инженерные лаборатории, современные компьютерные системы и новейшее программное обеспечение,собственный парк строительной и специализированной техники</p>
-<p><br><a class="button" href="/o-kompanii">Читать далее</a></p>	</div>
-		</div>
-			</div>
-</div>
-		
-</div></div></div></section>
-										
-
-										<section id="content" class="grid-block"><div id="system-message-container">
+<p><br><a class="button" href="/o-kompanii">Читать далее</a></p></div>
+		        </div>
 	</div>
-
-
-<div id="system">
-
-	
-	
-	
-	
+        </div>	
+</div>
+    </div>
+        </div>
+        </section>
+	<section id="content" class="grid-block"><div id="system-message-container">
+	</div>
+<div id="system">	
 </div></section>
-					
-					
-										<section id="innerbottom" class="grid-block"><div class="wrapper"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest" style="min-height: 204px;">
+		<section id="innerbottom" class="grid-block"><div class="wrapper"><div class="grid-box width100 grid-h"><div class="module mod-box  deepest" style="min-height: 204px;">
 
 		<h2 class="module-title">Новости</h2>	
 <div class="nspMainPortalMode4 nspFs130" id="nsp-newspro1">
