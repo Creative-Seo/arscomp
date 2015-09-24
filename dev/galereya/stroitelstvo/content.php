@@ -31,7 +31,7 @@
 									<div class="column grid_twelve">
 
 
-																					<div class="zenimage element1 firstitem"><a data-width="600" data-thumbtooltip="" data-group="gallery-163-image" data-title="" class="jackbox" href="/images/stroika/00000013.jpg" title=" " data-behavior="lightbox"><img data-original="/media/mod_zentools/cache/images/00000013-785ee91bbbca6c262a4a75851e9fb508.jpg" src="/media/mod_zentools/cache/images/00000013-785ee91bbbca6c262a4a75851e9fb508.jpg" alt="Строительство" title="" class="size-auto"></a></div>
+																		    <div class="zenimage element1 firstitem"><a data-width="600" data-thumbtooltip="" data-group="gallery-163-image" data-title="" class="jackbox" href="/images/stroika/00000013.jpg" title=" " data-behavior="lightbox"><img data-original="/media/mod_zentools/cache/images/00000013-785ee91bbbca6c262a4a75851e9fb508.jpg" src="/media/mod_zentools/cache/images/00000013-785ee91bbbca6c262a4a75851e9fb508.jpg" alt="Строительство" title="" class="size-auto"></a></div>
 										
 																							
 												
@@ -54,7 +54,7 @@
 									<div class="column grid_twelve">
 
 
-																					<div class="zenimage element1 firstitem"><a data-width="600" data-thumbtooltip="" data-group="gallery-163-image" data-title="" class="jackbox" href="/images/stroika/0000002.jpg" title=" " data-behavior="lightbox"><img data-original="/media/mod_zentools/cache/images/0000002-72963e9df89209b0693181d300830d69.jpg" src="/media/mod_zentools/cache/images/0000002-72963e9df89209b0693181d300830d69.jpg" alt="Строительство" title="" class="size-auto"></a></div>
+																			<div class="zenimage element1 firstitem"><a data-width="600" data-thumbtooltip="" data-group="gallery-163-image" data-title="" class="jackbox" href="/images/stroika/0000002.jpg" title=" " data-behavior="lightbox"><img data-original="/media/mod_zentools/cache/images/0000002-72963e9df89209b0693181d300830d69.jpg" src="/media/mod_zentools/cache/images/0000002-72963e9df89209b0693181d300830d69.jpg" alt="Строительство" title="" class="size-auto"></a></div>
 										
 																							
 												
