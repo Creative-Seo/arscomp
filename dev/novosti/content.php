@@ -1,18 +1,13 @@
 <div class="wrapper grid-block content-texture">
-						<div id="main" class="grid-block">
-			
-				<div id="maininner" class="grid-box" style="min-height: 829px;">
-										
-
-										<section id="content" class="grid-block"><div id="system-message-container">
-	</div>
+	<div id="main" class="grid-block">
+		<div id="maininner" class="grid-box" style="min-height: 829px;">
+			<section id="content" class="grid-block">
+			<div id="system-message-container"></div>
 
 <div id="system">
-	<div class="items items-col-1 grid-block"><div class="grid-box width100 leading">
+	<div class="items items-col-1 grid-block">
+	    <div class="grid-box width100 leading">
 <article class="item" data-permalink="http://okpars.ru/novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk">
-
-	
-	
 	
 	<div class="content clearfix">
 
@@ -25,13 +20,14 @@
 
 		<p class="links">
 	
-		
 		<a href="/novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk" title="Национальный гелиогеофизический комплекс Российской Академии Наук." class="button-color">
 			Продолжить чтение		</a>
 		
 	</p>
 
-</article></div><div class="grid-box width100">
+</article>
+        </div>
+    <div class="grid-box width100">
 <article class="item" data-permalink="http://okpars.ru/novosti/67-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2">
 
 	<div class="content clearfix">
