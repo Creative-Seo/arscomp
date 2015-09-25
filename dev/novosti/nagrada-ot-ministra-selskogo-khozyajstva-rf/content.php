@@ -1,0 +1,3 @@
+<h4>Награда за активное участие в развитии&nbsp;сельского хозяйства Российской Федерации.</h4>
+<div><a class="jcepopup noicon" href="http://okpars.ru/images/okpars.ru/News/1mesto/d_agro.jpg" target="_blank"><img style="float: right;" src="/images/okpars.ru/News/1mesto/d_agro.jpg" alt="d agro" width="250" height="353" class="size-auto"></a>28 августа 2014г. на XXIII международной выставке "АгроРусь" в Санкт-Петербурге министр сельского хозяйства Российской Федерации Н.В. Федоров</div>
+<div>наградил компанию ООО ОКП "АРС" дипломом за активное участие в развитии сельского хозяйства Российской Федерации.</div>
