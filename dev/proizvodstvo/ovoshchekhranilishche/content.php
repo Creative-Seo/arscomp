@@ -1,23 +1,12 @@
 <div class="wrapper grid-block content-texture">
-						<div id="main" class="grid-block">
-			
-				<div id="maininner" class="grid-box" style="min-height: 6904px;">
-										
-
-										<section id="content" class="grid-block"><div id="system-message-container">
-	</div>
-
+	<div id="main" class="grid-block">
+		<div id="maininner" class="grid-box" style="min-height: 6904px;">
+			<section id="content" class="grid-block">
+			    <div id="system-message-container"></div>
 
 <div id="system">
-
-	
 	<article class="item">
-
-		
-		
-		
 		<div class="content clearfix">
-
 		
 <h2 style="text-align: center;">&nbsp;</h2>
 <h2 style="text-align: center;">МЫ ПОМОЖЕМ ВАМ СОХРАНИТЬ ТО, ЧТО ВЫ С ТАКИМ ТРУДОМ ВЫРАСТИЛИ.</h2>
