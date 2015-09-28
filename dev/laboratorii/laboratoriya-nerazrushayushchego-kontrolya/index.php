@@ -10,9 +10,5 @@ include($root.'blocks/header.php');
 include($root.'blocks/navbar.php');
 include($root.'blocks/h1.php');
 include('content.php');
-<<<<<<< HEAD
-?>
-=======
 include($root.'blocks/footer.php');
 ?>
->>>>>>> master
