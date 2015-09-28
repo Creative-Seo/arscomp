@@ -1,171 +1,176 @@
-<div id="menubar" class="grid-block">
-<nav id="menu">
-<ul class="menu menu-dropdown">
-	<li class="level1 item101">
-	        <a href="/" class="level1"><span>Главная</span></a>
-	</li>
-	    <li class="level1 item128 active current">
-	        <a href="/sertifikaty" class="level1 active current"><span>Сертификаты</span></a>
+<div class="container-fluide">
+<div class="row">
+<div class="navbar navbar-defoult">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#responsive-menu">
+	<span class="sr-only">Открыть навигацию</span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+</button>
+</div>
+
+<div class="collapse navbar-collapse" id="responsive-menu">
+<ul class="nav navbar-nav">
+	<a href="/" class="navbar-brand">Главная</a>
+	<a href="/sertifikaty" class="navbar-brand">Сертификаты</a>
+
+<!--уСЛУГИ-->
+	    <li class="dropdown">
+	        <a href="/uslugi" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Услуги</a>
+	    <ul class="dropdown-menu">
+	    <li><span>Инженерные Изыскания</span></li>
+	    <li>
+	        <a href="/geodezicheskie-izyskaniya">Геодезические изыскания</a>
 	    </li>
-	    <li class="level1 item129 parent"><span class="separator level1 parent"><span>Услуги</span></span>
-	<div class="dropdown columns1" style="display: none; overflow: hidden;">
-	<div style="overflow: hidden;">
-	<div><div class="dropdown-bg"><div><div class="width100 column">
-	<ul class="nav-child unstyled small level2" style="min-height: 670px;">
-	    <li class="level2 item130 parent">
-	    <span class="separator level2 parent"><span>Инженерные Изыскания</span></span>
-	<ul class="nav-child unstyled small level3">
-	    <li class="level3 item133">
-	        <a href="/uslugi/inzhenernye-izyskaniya/geodezicheskie-izyskaniya" class="level3"><span>Геодезические изыскания</span></a>
+	    <li>
+	        <a href="/geologicheskie-izyskaniya">Геологические изыскания</a>
 	    </li>
-	    <li class="level3 item131">
-	        <a href="/uslugi/inzhenernye-izyskaniya/geologicheskie-izyskaniya" class="level3"><span>Геологические изыскания</span></a>
 	    </li>
-	</ul>
-	</li>
+	
 
 	
-	<li class="level2 item154 parent">
-	        <span class="separator level2 parent"><span>Лаборатории</span></span>
-	    <ul class="nav-child unstyled small level3">
-	        <li class="level3 item155">
-	            <a href="/uslugi/laboratorii/geologicheskaya-laboratoriya" class="level3"><span>Геологическая лаборатория</span></a>
+	        <li>
+	        <span>Лаборатории</span>
+	        <li>
+	            <a href="/laboratorii/geologicheskaya-laboratoriya">Геологическая лаборатория</a>
 	        </li>
-	        <li class="level3 item156">
-	            <a href="/uslugi/laboratorii/geodezicheskaya-laboratoriya" class="level3"><span>Геодезическая лаборатория</span></a>
+	        <li>
+	            <a href="/laboratorii/geodezicheskaya-laboratoriya">Геодезическая лаборатория</a>
 	        </li>
-	        <li class="level3 item157">
-	            <a href="/uslugi/laboratorii/ekologicheskaya-laboratoriya" class="level3"><span>Экологическая лаборатория</span></a>
+	        <li>
+	            <a href="/laboratorii/ekologicheskaya-laboratoriya">Экологическая лаборатория</a>
 	        </li>
-	        <li class="level3 item158">
-	            <a href="/uslugi/laboratorii/elektrotekhnicheskaya-laboratoriya" class="level3"><span>Электротехническая лаборатория</span></a>
+	        <li>
+	            <a href="/laboratorii/elektrotekhnicheskaya-laboratoriya">Электротехническая лаборатория</a>
 	        </li>
-	        <li class="level3 item159">
-	            <a href="/uslugi/laboratorii/radiotekhnicheskaya-laboratoriya" class="level3"><span>Радиотехническая лаборатория</span></a>
+	        <li>
+	            <a href="/laboratorii/radiotekhnicheskaya-laboratoriya">Радиотехническая лаборатория</a>
 	        </li>
-	        <li class="level3 item144">
-	            <a href="/uslugi/laboratorii/laboratoriya-nerazrushayushchego-kontrolya" class="level3"><span>Лаборатория неразрушающего контроля</span></a>
+	        <li>
+	            <a href="/laboratorii/laboratoriya-nerazrushayushchego-kontrolya">Лаборатория неразрушающего контроля</a>
 	        </li>
-	    </ul>
-	 </li>
+	        </li>
 
 
-	        <li class="level2 item138">
-	               <a href="/uslugi/arkhitekturno-stroitelnoe-proektirovanie" class="level2"><span>АРХИТЕКТУРНО-СТРОИТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ</span></a>
+	        <li>
+	                <a href="/arkhitekturno-stroitelnoe-proektirovanie">АРХИТЕКТУРНО-СТРОИТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ</a>
 	        </li>
-	        <li class="level2 item139">
-	               <a href="/uslugi/proektirovanie-ob-ektov-linejnogo-sooruzheniya" class="level2"><span>ПРОЕКТИРОВАНИЕ ОБЪЕКТОВ ЛИНЕЙНОГО 
-	           СООРУЖЕНИЯ</span></a>
-	        </li>
-	        <li class="level2 item140"><a href="/uslugi/ctroitelno-montazhnye-raboty" class="level2"><span>СТРОИТЕЛЬНО-МОНТАЖНЫЕ РАБОТЫ</span></a       >
-	        </li>
-	           <li class="level2 item202">
-	                  <a href="/uslugi/stroitelnyj-nadzor" class="level2"><span>СТРОИТЕЛЬНЫЙ НАДЗОР</span></a>
+	        <li class="divider"></li>
+	        <li>
+	                <a href="/proektirovanie-ob-ektov-linejnogo-sooruzheniya">ПРОЕКТИРОВАНИЕ ОБЪЕКТОВ ЛИНЕЙНОГО 
+	           СООРУЖЕНИЯ</a>
+	            </li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="/ctroitelno-montazhnye-raboty">СТРОИТЕЛЬНО-МОНТАЖНЫЕ РАБОТЫ</a>
+	            </li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="/stroitelnyj-nadzor">СТРОИТЕЛЬНЫЙ НАДЗОР</a>
+	            </li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="/ekspertiza-promyshlennoj-bezopasnosti">ЭКСПЕРТИЗА ПРОМЫШЛЕННОЙ БЕЗОПАСНОСТИ</a>
+	            </li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="/energoaudit">ЭНЕРГОАУДИТ</a>
+	            </li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="/pozharnaya-bezopasnost">ПОЖАРНАЯ БЕЗОПАСНОСТЬ</a>
 	           </li>
-	           <li class="level2 item142">
-	                  <a href="/uslugi/ekspertiza-promyshlennoj-bezopasnosti" class="level2"><span>ЭКСПЕРТИЗА ПРОМЫШЛЕННОЙ БЕЗОПАСНОСТИ</span></a>
-	           </li>
-	           <li class="level2 item143">
-	                  <a href="/uslugi/energoaudit" class="level2"><span>ЭНЕРГОАУДИТ</span></a>
-	           </li>
-	           <li class="level2 item145"><a href="/uslugi/pozharnaya-bezopasnost" class="level2"><span>ПОЖАРНАЯ БЕЗОПАСНОСТЬ</span></a>
-	           </li>
-	                  <li class="level2 item146">
-	                  <a href="/uslugi/avtonomnaya-gazafikatsiya" class="level2"><span>АВТОНОМНАЯ ГАЗИФИКАЦИЯ</span></a>
-	           </li>
-	           <li class="level2 item160">
-	                  <a href="/uslugi/arenda-spetsavtotransporta" class="level2"><span>АРЕНДА СПЕЦАВТОТРАНСПОРТА</span></a>
-	           </li>
-	           <li class="level2 item161">
-	               <a href="http://proburimsya.ru/" target="_blank" rel="nofollow" class="level2"><span>БУРЕНИЕ СКВАЖИН</span></a>
-	           </li>
-   </ul>
-	                        </div>
-	                    </div>
-	                </div>
-	            </div>
-	         </div>
-        </div>
-	</li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="/avtonomnaya-gazafikatsiya">АВТОНОМНАЯ ГАЗИФИКАЦИЯ</a>
+	            </li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="/arenda-spetsavtotransporta">АРЕНДА СПЕЦАВТОТРАНСПОРТА</a>
+	            </li>
+	        <li class="divider"></li>
+	            <li>
+	                <a href="http://proburimsya.ru/" target="_blank" rel="nofollow">БУРЕНИЕ СКВАЖИН</a>
+	            </li>
+	            </li>
+	            </ul>
+<!--/уСЛУГИ-->
 
 
-	    <li class="level1 item162 parent">
-	<span class="separator level1 parent"><span>Производство</span></span>
-	                 <div class="dropdown columns1" style="display: none; overflow: hidden; width: 350px;">
-	             <div style="overflow: hidden; display: none; width: 350px; height: 271px; opacity: 1;">
-	         <div style="min-width: 350px;">
-	     <div class="dropdown-bg">
-	                    <div><div class="width100 column">
-	        <ul class="nav-child unstyled small level2" style="min-height: 263px;">
-	    <li class="level2 item163 parent">
-	<span class="separator level2 parent"><span>Сборный Железобетонный Каркас</span></span>
-	        <ul class="nav-child unstyled small level3">
-	    <li class="level3 item164">
-	        <a href="/proizvodstvo/zhelezobetonnyj-uzel/sborno-monolitnyj-karkas" class="level3"><span>Технология сборно-монолитного 
-	    каркаса</span></a>
+
+<!--Производство-->
+	<li class="dropdown">
+	<a href="/proizvodstvo" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Производство</a>
+	    <ul class="dropdown-menu">
+	    <li>
+	<span>Сборный Железобетонный Каркас</span>
+	        <ul>
+	    <li>
+	        <a href="/proizvodstvo/sborno-monolitnyj-karkas">Технология сборно-монолитного 
+	    каркаса</a>
 	    </li>
-	<li class="level3 item208">
-	        <a href="/proizvodstvo/zhelezobetonnyj-uzel/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa" class="level3"><span>
-	    Преимущества технологии соборно-монолитного каркаса</span></a>
+	<li>
+	        <a href="/proizvodstvo/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa">
+	    Преимущества технологии соборно-монолитного каркаса</a>
 	</li>
 	        </ul>
 	    </li>
 
 
-	<li class="level2 item169 parent">
-	        <a href="/proizvodstvo/metallokonstruktsii" class="level2 parent"><span>МЕТАЛЛОКОНСТРУКЦИИ</span></a>
-	<ul class="nav-child unstyled small level3">
-	<li class="level3 item191">
-	        <a href="/proizvodstvo/metallokonstruktsii/strelovoe-oborudovanie" class="level3"><span>Стреловое оборудование</span></a>
+	<li>
+	        <a href="/proizvodstvo">МЕТАЛЛОКОНСТРУКЦИИ</a>
+	<ul>
+	<li>
+	        <a href="/proizvodstvo/strelovoe-oborudovanie">Стреловое оборудование</a>
 	</li>
-	<li class="level3 item192">
-	        <a href="/proizvodstvo/metallokonstruktsii/mobilnaya-rampa" class="level3"><span>Мобильная рампа</span></a>
+	<li>
+	        <a href="/proizvodstvo/mobilnaya-rampa">Мобильная рампа</a>
 	</li>
-	<li class="level3 item193">
-	        <a href="/proizvodstvo/metallokonstruktsii/novesnoe-oborudovanie-dlya-motobloka" class="level3"><span>Навесное оборудование 
-	    для мотоблоков</span></a>
-	</li>
-	</ul>
-	</li>
-	<li class="level2 item221">
-	        <a href="/proizvodstvo/ovoshchekhranilishche" class="level2"><span>ОВОЩЕХРАНИЛИЩЕ</span></a>
+	<li>
+	        <a href="/proizvodstvo/novesnoe-oborudovanie-dlya-motobloka">Навесное оборудование 
+	    для мотоблоков</a>
 	</li>
 	</ul>
-	                        </div>
-	                    </div>
+	</li>
+	<li>
+	        <a href="/proizvodstvo/ovoshchekhranilishche">ОВОЩЕХРАНИЛИЩЕ</a>
+	</li>
+	</li>
+	</ul>
+
+<!--/Производство-->
+
+
+
+
+<!--Галерея-->
+    <li class="dropdown">
+    <a href="/galereya" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Галерея</a>
+	<ul class="dropdown-menu">
+	<li>
+	    <a href="/galereya/proekty"><span>Проекты</span></a>
+	</li>
+	<li>
+	    <a href="/galereya/stroitelstvo"><span>Строительство</span></a>
+	</li>
+	</ul>
+
+<!--/Галерея-->	
+
+	<li>
+	    <a href="/novosti" class="navbar-brand">Новости</a>
+	</li>
+	<li>
+	    <a href="/contacts" class="navbar-brand">Контакты</a>
+	</li>
+    </li>
+    </ul>
 	                </div>
 	            </div>
 	        </div>
 	    </div>
-	</li>
-	<li class="level1 item170 parent">
-	        <a href="/galereya" class="level1 parent"><span>Галерея</span></a>
-	                    <div class="dropdown columns1" style="display: none; overflow: hidden; width: 350px;">
-	                <div style="overflow: hidden; width: 350px; height: 74px; opacity: 1; display: none;">
-	            <div style="min-width: 350px;">
-	        <div class="dropdown-bg">
-	    <div><div class="width100 column">
-	<ul class="nav-child unstyled small level2" style="min-height: 72px;">
-	<li class="level2 item223">
-	        <a href="/galereya/proekty" class="level2"><span>Проекты</span></a>
-	</li>
-	<li class="level2 item224">
-	        <a href="/galereya/stroitelstvo" class="level2"><span>Строительство</span></a>
-	</li>
-	</ul>
-	        </div>
-	    </div>
-	        </div>
-	           </div>
-	                </div>
-	                    </div>
-	</li>
-	<li class="level1 item132">
-	        <a href="/novosti" class="level1"><span>Новости</span></a>
-	</li>
-	<li class="level1 item126">
-	        <a href="/kontakty" class="level1"><span>Контакты</span></a>
-	</li>
-    </ul>
-    </nav>
-    </div>
+	 </div>
+</div>

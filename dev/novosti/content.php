@@ -61,8 +61,15 @@
 					</ul>
 	</div>
 	
-		<div class="pagination"><strong>1</strong><a class="" href="/novosti?start=2" title="2">2</a><a class="" href="/novosti?start=4" title="3">3</a><a class="" href="/novosti?start=6" title="4">4</a><a class="" href="/novosti?start=8" title="5">5</a><a class="" href="/novosti?start=10" title="6">6</a><a class="next" href="/novosti?start=2" title="»">»</a><a class="last" href="/novosti?start=10" title="В конец">В конец</a></div>	
-</div></section>
+		<div class="pagination"><strong>1</strong><a class="" href="/novosti?start=2" title="2">2</a><a class="" href="/novosti?start=4" title="3">3</a><a class="" href="/novosti?start=6" title="4">4</a>
+		<a class="" href="/novosti?start=8" title="5">5</a>
+		<a class="" href="/novosti?start=10" title="6">6</a>
+		<a class="next" href="/novosti?start=2" title="»">»</a>
+		<a class="last" href="/novosti?start=10" title="В конец">В конец</a>
+
+		</div>	
+</div>
+</section>
 		</div>
 				<!-- maininner end -->
 			</div>

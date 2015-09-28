@@ -1,24 +1,22 @@
-<div id="toolbar" class="grid-block">
+<div class="grid-block">
 	<div class="wrapper">
 		<div class="toolbar-l float-left">
 			<div class="module   deepest">
 
-<div class="custom">
-	<h3><span style="h3: 18pt;">8 800 7000 672 &nbsp;<span style="line-height: 1.3em;">| &nbsp;8 (4922) 37 99 99</span></span></h3>
+<div class="custom"><!--Номера телефонов-->
+	<h2><span>8 800 7000 672 &nbsp;<span>| &nbsp;8 (4922) 37 99 99</span></span></h2>
 </div>
-
 			</div>					
 		</div>
 	</div>
 </div>
-
-<header id="header">
-	<div id="header-top">
-		<a id="logo" href="http://okpars.ru">
-			<div class="custom">
-				<p><img src="/images/okpars.ru/logo/logoArs.png" alt="" width="123" height="99" class="size-auto"></p>
-			</div>
-		</a>
-		<span class="tag-line">Особое Конструкторское Подразделение</span>
-	</div>
-</header>
+</div>
+<!--HEADER-->
+<div class="container-fluid">
+<div class="row">
+	<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+		<img src="/images/okpars.ru/logo/logoArs.png" class="img-rounded" alt="logo"></div>
+	<div class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
+		<div class="h"><p>Особое Конструкторское Подразделение</p></div></div>
+</div>
+</div>

@@ -1,9 +1,26 @@
 @import "variables";
 @import "bootstrap";
-//@import "header";
-//@import "navbar";
+@import "header";
+@import "navbar";
+/*Colors*/
+$background: #f4f4f4;
 
-//TYPOGRAPHY
+/*Colors*/
+/*Body*/
+body {
+	background: $background;
+}
+/*Body*/
+/*header*/
+.h p{
+  margin-top: 50px; }
+/*header*/
+
+/*Navbar*/
+
+/*Navbar*/
+
+/*TYPOGRAPHY*/
 h1,.h1 {padding-bottom:20px;}
 h2,.h2 {
 		text-align: center;
@@ -14,14 +31,14 @@ h2,.h2 {
 .pull-left {
     padding-right: 10px;
 }
-//TYPOGRAPHY
-// SLIDER
+/*TYPOGRAPHY*/
+/* SLIDER*/
 
-// SLIDER
-//MAP
+/* SLIDER*/
+/*MAP*/
 .map-yandex {padding: 10px;height: 50vh;}
-//MAP
-//FOOTER
+/*MAP*/
+/*FOOTER*/
 .house {width: 100%; height:auto; max-height: 200px;}
 .footer {
 	padding-bottom:30px;
@@ -38,4 +55,4 @@ h2,.h2 {
 	&-stack{padding: 10px;}
 	&-hr{border-top: 1px solid #ccc;}
 }
-//FOOTER
+/*FOOTER*/
