@@ -21,7 +21,7 @@
 	    <li class="dropdown">
 	        <a href="/uslugi" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Услуги</a>
 	    <ul class="dropdown-menu">
-	    <li><span>Инженерные Изыскания</span></li>
+	    <p>Инженерные Изыскания</p>
 	    <li>
 	        <a href="/geodezicheskie-izyskaniya">Геодезические изыскания</a>
 	    </li>
@@ -33,7 +33,7 @@
 
 	
 	        <li>
-	        <span>Лаборатории</span>
+	        <p>Лаборатории</p>
 	        <li>
 	            <a href="/laboratorii/geologicheskaya-laboratoriya">Геологическая лаборатория</a>
 	        </li>
@@ -106,7 +106,7 @@
 	<a href="/proizvodstvo" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Производство</a>
 	    <ul class="dropdown-menu">
 	    <li>
-	<span>Сборный Железобетонный Каркас</span>
+	<p>Сборный Железобетонный Каркас</p>
 	        <ul>
 	    <li>
 	        <a href="/proizvodstvo/sborno-monolitnyj-karkas">Технология сборно-монолитного 
@@ -151,10 +151,10 @@
     <a href="/galereya" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Галерея</a>
 	<ul class="dropdown-menu">
 	<li>
-	    <a href="/galereya/proekty"><span>Проекты</span></a>
+	    <a href="/galereya/proekty">Проекты</a>
 	</li>
 	<li>
-	    <a href="/galereya/stroitelstvo"><span>Строительство</span></a>
+	    <a href="/galereya/stroitelstvo">Строительство</a>
 	</li>
 	</ul>
 
