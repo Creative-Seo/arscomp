@@ -16,8 +16,12 @@ body {
   margin-top: 50px; }
 /*header*/
 
-/*Navbar*/
 
+/*Navbar*/
+.nav2.dropdown-menu{
+	position: absolute;
+	right: -250px;
+}
 /*Navbar*/
 
 /*TYPOGRAPHY*/
@@ -34,10 +38,12 @@ h2,.h2 {
 /*TYPOGRAPHY*/
 /* SLIDER*/
 
+
 /* SLIDER*/
 /*MAP*/
 .map-yandex {padding: 10px;height: 50vh;}
 /*MAP*/
+
 /*FOOTER*/
 .house {width: 100%; height:auto; max-height: 200px;}
 .footer {
