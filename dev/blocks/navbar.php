@@ -1,4 +1,4 @@
-<div class="container-fluide">
+<div class="container">
 <div class="row">
 <div class="navbar navbar-defoult">
 <div class="container">
