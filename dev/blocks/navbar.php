@@ -14,14 +14,14 @@
 
 <div class="collapse navbar-collapse" id="responsive-menu">
 <ul class="nav navbar-nav">
-	<a href="/" class="navbar-brand">Главная</a>
-	<a href="/sertifikaty" class="navbar-brand">Сертификаты</a>
+	<li><a href="/" class="navbar-brand">Главная</a></li>
+	<li><a href="/sertifikaty" class="navbar-brand">Сертификаты</a></li>
 
 <!--уСЛУГИ-->
 	    <li class="dropdown">
 	        <a href="/uslugi" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Услуги</a>
 	    <ul class="dropdown-menu">
-	    <p>Инженерные Изыскания</p>
+	    <li>Инженерные Изыскания</li>
 	    <li>
 	        <a href="/geodezicheskie-izyskaniya">Геодезические изыскания</a>
 	    </li>
@@ -55,11 +55,11 @@
 	        </li>
 
 
-	        <li>
+	            <li>
 	                <a href="/arkhitekturno-stroitelnoe-proektirovanie">АРХИТЕКТУРНО-СТРОИТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ</a>
-	        </li>
+	            </li>
 	        <li class="divider"></li>
-	        <li>
+	            <li>
 	                <a href="/proektirovanie-ob-ektov-linejnogo-sooruzheniya">ПРОЕКТИРОВАНИЕ ОБЪЕКТОВ ЛИНЕЙНОГО 
 	           СООРУЖЕНИЯ</a>
 	            </li>
@@ -104,13 +104,13 @@
 <!--Производство-->
 	<li class="dropdown">
 	<a href="/proizvodstvo" class="navbar-brand dropdown-toggle" data-toggle="dropdown">Производство</a>
-	    <ul class="dropdown-menu">
+	    <ul class="nav2 dropdown-menu">
 	    <li>
 	<p>Сборный Железобетонный Каркас</p>
 	        <ul>
 	    <li>
-	        <a href="/proizvodstvo/sborno-monolitnyj-karkas">Технология сборно-монолитного 
-	    каркаса</a>
+	        <a href="/proizvodstvo/sborno-monolitnyj-karkas"><span>Технология сборно-монолитного 
+	    каркаса</span></a>
 	    </li>
 	<li>
 	        <a href="/proizvodstvo/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa">
