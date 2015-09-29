@@ -20,6 +20,46 @@
 	</div>
 </section>
 
+<section id="bottom-c" class="grid-block ">
+				<div class="bottom-gradient">
+					<div class="wrapper grid-block">
+						<div class="footer-body">
+							<div class="grid-box width16 grid-h"><div class="module   deepest" style="min-height: 284px;">
+
+		<h2 class="module-title">Офис во Владимире</h2>	
+<!-- get background image -->
+<div class="custom">
+	<p>Бизнес парк "Техника"<br>Дворянская ул. 27А | корпус 1<br>2 этаж, ОКП "АРС"</p>
+
+<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> <span class="phone cont-info"> +7 4922 37 99 99 </span> <span class="email cont-info">info@okpars.ru</span> <span class="town cont-info">600001, Россия, г.Владимир.</span></address></div>		
+</div></div><div class="grid-box width16 grid-h"><div class="module   deepest" style="min-height: 284px;">
+
+		<h2 class="module-title">Офис в Москве</h2>	
+<!-- get background image -->
+<div class="custom">
+	<p>Территория ОКБ МЭИ<br>Красноказарменная ул. 14 | Корпус 4<br>офис 505</p>
+
+<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> <span class="email cont-info">market@okpars.ru</span> <span class="town cont-info">Россия, Москва</span></address></div>		
+</div></div><div class="grid-box width16 grid-h"><div class="module   deepest" style="min-height: 284px;">
+
+		<h2 class="module-title">Офис в Иркутске</h2>	
+<!-- get background image -->
+<div class="custom">
+	<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
+<p><span class="phone cont-info">+7 (3952) 288 890</span></p>
+<p><span class="town cont-info">664000, Россия, г. Иркутск</span></p></div>		
+</div></div><div class="grid-box width50 grid-h"><div class="module   deepest" style="min-height: 284px;">
+
+		<h2 class="module-title">Время Работы офиса</h2>	
+<!-- get background image -->
+<div class="custom">
+	<p>Офис компании ОКП "АРС" работает с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
+<p style="font-size: 12px; line-height: 15.796875px;"><a class="button-color right" href="/kontakty">Позвонить нам</a></p></div>		
+</div></div>						</div>	
+					</div>		
+				</div>
+</section>
+
 <footer id="footer" class="grid-block float-left">
 	<div class="module colored  deepest">
 		<ul class="menu menu-line"><li class="level1 item127"><a href="/o-kompanii" class="level1"><span>О компании</span></a></li><li class="level1 item186"><a href="/karta-sajta" class="level1"><span>Карта сайта</span></a></li></ul>		
