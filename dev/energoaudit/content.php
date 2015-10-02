@@ -1,12 +1,5 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1059px;">
-			<section id="content" class="grid-block">
-			<div id="system-message-container"></div>
-<div id="system">
-    <article class="item">
-        
-        <div class="content clearfix">
+<div class="container">
+
 	
 <p>ООО ОКП «АРС» предлагает услуги по проведению энергоаудита различных недвижимых объектов (организации, предприятия, здания и сооружения, жилые многоквартирные дома).<img src="/images/matc/audit/energoaudit_1.jpg" alt="" width="1047" height="142" class="size-auto"></p>
 <p><span style="line-height: 1.3em;">Цель комплексного энергетического обследования — комплексная оптимизация энергосбережения, выявление источников неоправданных затрат электроэнергии, повышение энергоэффективности предприятия.&nbsp;</span></p>
@@ -35,13 +28,9 @@
     <li>Тепловизионное энергоаудит-обследование;&nbsp;</li>
     <li>Комплекс проектных и монтажных работ, связанных с измерительным и регулирующим оборудованием.</li>
         </ul>
- 		</div>	
-	</article>
-
 </div>
-            </section>
-        </div>
-				<!-- maininner end -->
+
+
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1059px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
 	        <ul class="menu menu-sidebar">
@@ -103,5 +92,3 @@
 </div>
 </div>
 </aside>	
-		</div>
-			</div>

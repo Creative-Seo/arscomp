@@ -1,12 +1,6 @@
-<div class="wrapper grid-block content-texture">
-<div id="main" class="grid-block">
-<div id="maininner" class="grid-box" style="min-height: 1303px;">
-<section id="content" class="grid-block">
-<div id="system-message-container"></div>
-<div id="system">
-	<article class="item">
-	
-	<div class="content clearfix">
+<div class="container">
+
+
 <p>Архитектурно-строительное проектирование — комплекс услуг по проектированию строительных объектов различного типа и функциональности.&nbsp;</p>
 <p><img src="/images/okpars.ru/uslugi/Bot-1.png" alt="" class="size-auto"></p>
 <h2>Основные этапы архитектурно-строительного проектирования:&nbsp;</h2>
@@ -46,12 +40,7 @@
     <li>Планировка и застройка микрорайонов: анализ актуальной обстановки, выполнение необходимых модернизационных мероприятий.</li>
     <li>Работа с документами: сбор и подробный анализ актуальных сведений, получение необходимых разрешений и согласований.&nbsp;</li>
         </ul> 		
-    </div>
-	</article>
 </div>
-</section>
-</div>
-				<!-- maininner end -->
 
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1303px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
@@ -114,5 +103,3 @@
 </div>
 </div>
     </aside>	
-</div>
-</div>

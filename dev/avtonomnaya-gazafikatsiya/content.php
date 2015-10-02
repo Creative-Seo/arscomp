@@ -1,11 +1,5 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1078px;">
-			<section id="content" class="grid-block"><div id="system-message-container">
-	</div>
-<div id="system">
-	<article class="item">
-		<div class="content clearfix">
+<div class="container">
+
 
 <div id="widget-b99d1b4f-b675-099a-cbf5-9aae53af1dd0">
 <p>Комфорт, независимость, свобода выбора и личное пространство — ключевые ценности современного мира. ООО ОКП «АРС» предлагает Вам полноценную альтернативу централизованным сетям газоснабжения — автономную газификацию.&nbsp;<br><br>В основе принципов автономной газификации лежит использование резервуаров, наполненных сжиженным углеводородом (газгольдеров). Резервуары размещаются на вашей территории. Каждый из газгольдеров монтируется на фундамент здания и засыпается песком. После этого в здании устанавливается котельное оборудование, необходимое для отопления и нагрева воды. Компактный локальный газопровод, пролегающий на глубине 1.7 м, соединяет котельную и резервуары — все готово, система автономной газификации работает!&nbsp;</p>
@@ -30,12 +24,7 @@
         </ul>
 <p><img src="/images/matc/gaz/avtonomka-gaz-1-okpars.ru.jpg" alt="" width="430" height="288" class="size-auto"><img src="/images/matc/gaz/avtonomka-gaz-3-okpars.ru.jpg" alt="" width="430" height="310" class="size-auto"></p>
 </div>
-        </div>		
-	</article>
-</div>
-            </section>
-		</div>
-				<!-- maininner end -->
+
 
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1078px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
@@ -98,5 +87,3 @@
 </div>
 </div>
     </aside>	
-	</div>
-</div>

@@ -1,12 +1,5 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 830px;">
-			<section id="content" class="grid-block">
-			    <div id="system-message-container"></div>
+<div class="container">
 
-<div id="system">
-	<article class="item">
-		<div class="content clearfix">
 
 <p>Хотите сделать процесс сельскохозяйственных работ максимально удобным и результативным? Первый шаг к этому — приобретение мотоблока.&nbsp;</p>
 
@@ -48,12 +41,9 @@
 <p>Вся продукция ООО ОКП «АРС» снабжена необходимой документацией и имеет гарантию производителя.&nbsp;</p>
 
 
-<p><span style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14.296875px;">&nbsp;</span></p> 		</div>		
-	</article>
-</div>
-    </section>
-		</div>
-				<!-- maininner end -->
+<p><span style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14.296875px;">&nbsp;</span></p>
+</div>		
+
 				
 	<aside id="sidebar-a" class="grid-box" style="min-height: 830px;">
 	<div class="grid-box width100 grid-v">
@@ -85,6 +75,4 @@
             </ul>		
         </div>
             </div>
-                </aside>
-			        </div>
-						</div>
+</aside>

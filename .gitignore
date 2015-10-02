@@ -5,3 +5,5 @@ dev/libs/
 *.log
 dev/css/style.css
 dev/css/meta.css
+ars.sublime-project
+ars.sublime-workspace

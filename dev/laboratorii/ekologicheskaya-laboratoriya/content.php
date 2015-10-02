@@ -1,11 +1,5 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-			<section id="content" class="grid-block">
-			    <div id="system-message-container"></div>
-<div id="system">
-	<article class="item">
-		<div class="content clearfix">
+<div class="container">
+
 
 <p>Лаборатория экологического мониторинга представляет собой автоматическую передвижную станцию контроля за состоянием окружающей среды. Исследовательское оборудование размещается на базе цельнометаллического фургона и включает в себя комплект высокотехнологичных приборов и оборудования, предназначенных для сбора и анализа образцов почвы, воды и воздуха. Услуги передвижной экологической лаборатории — необходимая мера контроля над уровнем соответствия промышленной деятельности стандартам и требованиям охраны окружающей среды.&nbsp;</p>
 <h2>ООО ОКП «АРС» предлагает Вам услуги экологической лаборатории.&nbsp;</h2>
@@ -32,12 +26,8 @@
     <li>Современное мобильное оборудование, позволяющее добиться максимально точных результатов;</li>
     <li>Универсальность эколаборатории.</li>
         </ul>
- 		    </div>	
-	</article>
-</div>
-    </section>
-		</div>
-				<!-- maininner end -->
+</div>	
+
 
 				
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
@@ -101,5 +91,3 @@
 </div>
     </div>
         </aside>						
-			</div>
-			    </div>

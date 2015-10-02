@@ -1,11 +1,4 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-			<section id="content" class="grid-block">
-			    <div id="system-message-container"></div>
-<div id="system">
-    <article class="item">
-        <div class="content clearfix">
+<div class="container">
 
 		
 <p>Инженерно-геологические изыскания — обязательный этап, предваряющий начало любого строительства. Данные, полученные в результате геотехнич<span style="line-height: 1.3em;">еского исследования&nbsp;</span><span style="line-height: 1.3em;">— определяющий фактор в проектировании фундамента и дальнейшей реализации проекта.&nbsp;</span></p>
@@ -26,12 +19,8 @@
     <li>В случае необходимости — рекомендация ряда мероприятий, направленных на улучшение выбранного участка территории инженерными методами.</li>
         </ul>
 <p><span style="line-height: 1.3em;">Цены на геологические изыскания целиком и полностью зависят от особенностей выбранной местности, а также объема и специфики проделанных инженерных работ. Качественно выполненное геологическое изыскание — залог долговечности инженерных конструкций и безопасности зданий и сооружений.</span></p> 		
-</div>	
-	</article>
-        </div>
-            </section>
-				</div>
-				<!-- maininner end -->
+</div>
+
 
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
@@ -94,5 +83,3 @@
 </div>
     </div>
         </aside>	
-			</div>
-				</div>

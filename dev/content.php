@@ -53,61 +53,61 @@
 			<div class="nspArtsScroll" style="width: 1602px;">
 							<div class="nspArt active">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/67-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/okpars.ru/News/newWHILE/1.png" alt="Проектирование и Строительство  производственного корпуса ООО Фирмы &amp;quot;Цикл&amp;quot;" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/67-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/okpars.ru/News/newWHILE/1.png" alt="Проектирование и Строительство  производственного корпуса ООО Фирмы &amp;quot;Цикл&amp;quot;" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/67-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2" title="Проектирование и Строительство  производственного корпуса ООО Фирмы &quot;Цикл&quot;">Проектирование и Строительство  производственного корпуса ООО Фирмы "Цикл"</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/okpars.ru/News/1/2.png" alt="Национальный гелиогеофизический комплекс Российской Академии Наук." style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/okpars.ru/News/1/2.png" alt="Национальный гелиогеофизический комплекс Российской Академии Наук." style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk" title="Национальный гелиогеофизический комплекс Российской Академии Наук.">Национальный гелиогеофизический комплекс Российской Академии Наук.</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/65-nagrada-ot-ministra-selskogo-khozyajstva-rf" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/293224.jpg" alt="Награда от министра сельского хозяйства РФ." style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/65-nagrada-ot-ministra-selskogo-khozyajstva-rf" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/293224.jpg" alt="Награда от министра сельского хозяйства РФ." style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/65-nagrada-ot-ministra-selskogo-khozyajstva-rf" title="Награда от министра сельского хозяйства РФ.">Награда от министра сельского хозяйства РФ.</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/63-stroitelstvo-agrotekhnicheskogo-kompleksa" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/newslogoslide/1.jpg" alt="Строительство Агро-Комплекса г.Рязань" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/63-stroitelstvo-agrotekhnicheskogo-kompleksa" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/newslogoslide/1.jpg" alt="Строительство Агро-Комплекса г.Рязань" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/63-stroitelstvo-agrotekhnicheskogo-kompleksa" title="Строительство Агро-Комплекса г.Рязань">Строительство Агро-Комплекса г.Рязань</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/59-nagrada-za-1-mesto" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/newslogoslide/shool-2.jpg" alt="Первое место в архитектурном конкурсе" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/59-nagrada-za-1-mesto" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/newslogoslide/shool-2.jpg" alt="Первое место в архитектурном конкурсе" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/59-nagrada-za-1-mesto" title="Первое место в архитектурном конкурсе">Первое место в архитектурном конкурсе</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/62-proektirovanie-farmatsevticheskogo-kompleksa-g-volginsk" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/1-1.jpg" alt="Проектирование фармацевтического комплекса г.Вольгинск" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/62-proektirovanie-farmatsevticheskogo-kompleksa-g-volginsk" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/1-1.jpg" alt="Проектирование фармацевтического комплекса г.Вольгинск" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/62-proektirovanie-farmatsevticheskogo-kompleksa-g-volginsk" title="Проектирование фармацевтического комплекса г.Вольгинск">Проектирование фармацевтического комплекса г.Вольгинск</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/60-skladskoj-kompleks-yuteks-ru" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/juteks.jpg" alt="Складской комплекс &amp;quot;Ютекс.ру&amp;quot;" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/60-skladskoj-kompleks-yuteks-ru" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/juteks.jpg" alt="Складской комплекс &amp;quot;Ютекс.ру&amp;quot;" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/60-skladskoj-kompleks-yuteks-ru" title="Складской комплекс &quot;Ютекс.ру&quot;">Складской комплекс "Ютекс.ру"</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/18-novyj-mikrorajon-g-vladimir" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/okpars.ru/News/prewiev/2-1.jpg" alt="Новый микрорайон г.Владимир" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/18-novyj-mikrorajon-g-vladimir" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/okpars.ru/News/prewiev/2-1.jpg" alt="Новый микрорайон г.Владимир" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/18-novyj-mikrorajon-g-vladimir" title="Новый микрорайон г.Владимир">Новый микрорайон г.Владимир</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/17-tsekh-po-proizvodstvu-snekov" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/newslogoslide/4.jpg" alt="Цех по производству снеков" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/17-tsekh-po-proizvodstvu-snekov" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/newslogoslide/4.jpg" alt="Цех по производству снеков" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/17-tsekh-po-proizvodstvu-snekov" title="Цех по производству снеков">Цех по производству снеков</a></h4></div>						</div>
 					</div>
 				</div>
 							<div class="nspArt">
 					<div style="width:150px;height:150px;">
-						<div class="nspImageGallery"><a href="/novosti/16-novyj-mikrorajon-g-murom" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="http://okpars.ru/images/newslogoslide/2.jpg" alt="Новый микрорайон г.Муром" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
+						<div class="nspImageGallery"><a href="/novosti/16-novyj-mikrorajon-g-murom" class="nspImageWrapper tleft fleft" style="margin:6px 14px 0 0;"><img class="nspImage tleft fleft size-auto" src="/images/newslogoslide/2.jpg" alt="Новый микрорайон г.Муром" style="width:150px;height:150px;"></a></div>						<div class="nspArtHeadline">
 							<div class="nspHeadline"><h4 class="nspHeader tleft fnone"><a href="/novosti/16-novyj-mikrorajon-g-murom" title="Новый микрорайон г.Муром">Новый микрорайон г.Муром</a></h4></div>						</div>
 					</div>
 				</div>
@@ -119,16 +119,6 @@
 	<a class="nspNext">След</a>
 </div>
 
-
-<script type="text/javascript" src="http://okpars.ru/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.4.js"></script>
-
-<script type="text/javascript">
-//<![CDATA[
-try {$Gavick;}catch(e){$Gavick = {};};
-$Gavick["nsp-newspro1"] = {
-	"animation_speed": 2000};
-//]]>
-</script>			
 </div></div></div></section>
 									</div>
 				<!-- maininner end -->

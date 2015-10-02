@@ -1,12 +1,5 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1613px;">
-			<section id="content" class="grid-block">
-			    <div id="system-message-container"></div>
+<div class="container">
 
-<div id="system">
-	<article class="item">
-		<div class="content clearfix">
 
 <h4>Основными преимуществами технологии смк, доказанными практикой, по отношению к другим технологиям домостроения являются:</h4>
 <p><img style="float: right;" src="/images/matc/karkaz/dom.jpg" alt="" width="300" height="300" class="size-auto"></p>
@@ -28,12 +21,8 @@
     <li>Универсальность элементов, что позволяет их использование при любых архитектурных и конструктивных решениях при программном проектировании.</li>
         </ul>
 <p><img src="/images/matc/karkaz/buk.png" alt="" width="1174" height="894" class="size-auto"></p>
- 		</div>	
-	</article>
+</div>	
 
-</div>      </section>			
-		</div>
-				<!-- maininner end -->
 				
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1613px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
@@ -64,5 +53,3 @@
             </div>
         </div>
     </aside>	
-	</div>
-</div>

@@ -1,11 +1,5 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-			<section id="content" class="grid-block">
-			    <div id="system-message-container"></div>
-<div id="system">
-	<article class="item">
-		<div class="content clearfix">
+<div class="container">
+
 
 <p>Безопасность — один из главных факторов благополучия. Своевременное выявление рисков, изъянов, потенциальных и реальных опасностей на производстве — первый и важнейший шаг к стабильности, развитию и успеху Вашего бизнеса.&nbsp;<img src="/images/matc/probez/prom-bez.jpg" alt="" class="size-auto"></p>
 <p>ООО ОКП «АРС» предлагает услуги по проведению экспертизы промышленной безопасности.</p>
@@ -25,13 +19,9 @@
 <li>Квалификация, добросовестность, непредвзятость, надежность;</li>
 <li>Разумные сроки и цены.&nbsp;</li>
 </ul> 		
-        </div>		
-	</article>
-</div>
-            </section>					
-		</div>
-				<!-- maininner end -->
-		
+</div>		
+
+
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
 	        <ul class="menu menu-sidebar">
@@ -93,5 +83,3 @@
 </div>
 </div>
 </aside>	
-	</div>
-		</div>
