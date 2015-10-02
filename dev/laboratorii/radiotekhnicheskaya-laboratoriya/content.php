@@ -1,15 +1,6 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-			<section id="content" class="grid-block"><div id="system-message-container">
-	</div>
+<div class="container">
 
-<div id="system">
 
-	<article class="item">
-		<div class="content clearfix">
-
-		
 <p>ООО Особое Конструкторское Подразделение «АРС» предлагает Вам услуги передвижной радиотехнической лаборатории.</p>
 <h4>Цели исследовательских работ радиотехнической лаборатории:</h4>
 <ul style="list-style-type: circle;">
@@ -29,15 +20,9 @@
 <li>Удобные сроки и доступные цены.&nbsp;</li>
 </ul>
 <p>Задокументированные результаты исследований, проводимых в нашей лаборатории, отличаются максимальной точностью и соответствуют всем необходимым требованиям и стандартам. Плановый контроль за радиотехникой и средствами связи — залог успешного функционирования и развития Вашего предприятия.&nbsp;</p>
+</div>	
 
- 		</div>	
-	</article>
-</div>
-</section>
-	</div>
-				<!-- maininner end -->
 
-				
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
 			        <ul class="menu menu-sidebar">
@@ -99,5 +84,3 @@
 </div>
     </div>
         </aside>	
-			</div>
-				</div>

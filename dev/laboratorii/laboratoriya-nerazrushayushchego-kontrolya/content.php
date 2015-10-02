@@ -1,12 +1,4 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-			<section id="content" class="grid-block">
-			<div id="system-message-container"></div>
-<div id="system">
-
-	<article class="item">
-		<div class="content clearfix">
+<div class="container">
 
 		
 <p>ООО ОКП «АРС» предлагает Вам полный комплекс услуг по проведению неразрушающего контроля.&nbsp;</p>
@@ -43,12 +35,8 @@
 <li>Предотвращение поломок и аварий, увеличение срока эксплуатации, сокращение продолжительности и стоимости ремонта.&nbsp;</li>
     </ul>
 <p>Результаты НК используются с целью изменения конструкций и технического процесса в сторону оптимизации уровня расходов на производстве, а также повышения износостойкости и надежности выпускаемой продукции.&nbsp;</p>
- 		</div>		
-	</article>
-</div>
-    </section>
-		</div>
-				<!-- maininner end -->
+</div>		
+
 
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
@@ -111,5 +99,3 @@
 </div>
     </div>
         </aside>	
-			</div>
-				</div>

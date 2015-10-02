@@ -1,14 +1,4 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1709px;">			
-			<section id="content" class="grid-block">
-			    <div id="system-message-container"></div>
-
-<div id="system">
-
-	<article class="item">
-
-		<div class="content clearfix">
+<div class="container">
 
 		
 <h2>Производство металлокнструкций любой сложности</h2>
@@ -25,16 +15,16 @@
         </ul>
 <p><img style="margin: 5px;" src="/images/matc/metakll/metall-6.jpg" alt="metall-6" width="200" height="150" class="size-auto"><img style="margin: 5px;" src="/images/matc/metakll/metall-3.jpg" alt="metall-3" width="200" height="150" class="size-auto"><img style="margin: 5px;" src="/images/matc/metakll/metall-7.jpg" alt="metall-7" width="200" height="150" class="size-auto"><img style="margin: 5px;" src="/images/matc/metakll/metall-1.jpg" alt="metall-1" width="200" height="150" class="size-auto"><img style="margin: 5px;" src="/images/matc/metakll/metall-2.jpg" alt="metall-2" width="200" height="150" class="size-auto"><img style="margin: 5px;" src="/images/matc/metakll/metall-8.jpg" alt="metall-8" width="200" height="150" class="size-auto"><img style="margin: 5px;" src="/images/matc/metakll/metall-4.jpg" alt="metall-4" width="200" height="150" class="size-auto"><img style="margin: 5px;" src="/images/matc/metakll/metall-5.jpg" alt="metall-5" width="200" height="150" class="size-auto"></p>
 <h2>Металлические каркасы зданий</h2>
-<p><a class="jcepopup noicon" type="image/jpeg" href="http://okpars.ru/images/matc/metakll/metall-karkas-2.jpg" target="_blank"><img style="margin: 5px; float: right;" src="/images/matc/metakll/metall-karkas-2.jpg" alt="metall-karkas-2" width="200" height="150" class="size-auto"></a></p>
+<p><a class="jcepopup noicon" type="image/jpeg" href="/images/matc/metakll/metall-karkas-2.jpg" target="_blank"><img style="margin: 5px; float: right;" src="/images/matc/metakll/metall-karkas-2.jpg" alt="metall-karkas-2" width="200" height="150" class="size-auto"></a></p>
 <p>Основное назначение металлических каркасов зданий — возведение объектов нежилой недвижимости. Металлический каркас — основа любого современного ангара или склада. ООО Особое Конструкторское Подразделение «АРС» предлагает Вам услуги по возведению металлокаркасов зданий.</p>
 <p>Металлокаркасы зданий: область применения и особенности</p>
 <p>Сборный металлический каркас — актуальный и экономический выгодный вариант для бюджетного проекта по возведению объекта нежилой&nbsp;</p>
-<p><a class="jcepopup noicon" href="http://okpars.ru/images/matc/metakll/metall-karkas-3.jpg" target="_blank"><img style="margin: 5px; float: right;" src="/images/matc/metakll/metall-karkas-3.jpg" alt="metall-karkas-3" width="200" height="150" class="size-auto"></a></p>
+<p><a class="jcepopup noicon" href="/images/matc/metakll/metall-karkas-3.jpg" target="_blank"><img style="margin: 5px; float: right;" src="/images/matc/metakll/metall-karkas-3.jpg" alt="metall-karkas-3" width="200" height="150" class="size-auto"></a></p>
 <p>недвижимости. Малый вес, легкость монтировки, возможность проведения монтажных работ в предельно сжатые сроки, а также наличие существенной экономии средств на строительстве типового фундамента — все перечисленное делает металлокаркасы зданий крайне востребованными в условиях современного строительного рынка.</p>
 <p>Минимальный срок службы сборного металлического каркаса — 100 лет. Современные технологии изготовления сырья для металлокаркасов позволяют добиться высоких показателей по таким параметрам, как пожароустойчивость и гипоаллергенность.&nbsp;</p>
 <h2>Преимущества металлокаркасов от ООО ОКП «АРС»</h2>
         <ul style="list-style-type: circle;">
-<li><a class="jcepopup noicon" href="http://okpars.ru/images/matc/metakll/metall-karkas-1.jpg" target="_blank"><img style="margin: 5px; float: left;" src="/images/matc/metakll/metall-karkas-1.jpg" alt="metall-karkas-1" width="210" height="158" class="size-auto"></a><a class="jcepopup noicon" href="http://okpars.ru/images/matc/metakll/metall-karkas-4.jpg" target="_blank"><img style="margin: 5px 25px 5px 5px; float: left;" src="/images/matc/metakll/metall-karkas-4.jpg" alt="metall-karkas-4" width="210" height="158" class="size-auto"></a>долгий срок службы;</li>
+<li><a class="jcepopup noicon" href="/images/matc/metakll/metall-karkas-1.jpg" target="_blank"><img style="margin: 5px; float: left;" src="/images/matc/metakll/metall-karkas-1.jpg" alt="metall-karkas-1" width="210" height="158" class="size-auto"></a><a class="jcepopup noicon" href="/images/matc/metakll/metall-karkas-4.jpg" target="_blank"><img style="margin: 5px 25px 5px 5px; float: left;" src="/images/matc/metakll/metall-karkas-4.jpg" alt="metall-karkas-4" width="210" height="158" class="size-auto"></a>долгий срок службы;</li>
 <li>высокая устойчивость к огню;</li>
 <li>безотходный процесс сборки;</li>
 <li>легкость и быстрота монтировки;</li>
@@ -44,13 +34,9 @@
 <li>высокое качество по доступной цене.&nbsp;</li>
         </ul>
 
-<p>Основной принцип работы нашей компании — ответственный, гибкий и эффективный подход к решению задач любой сложности. Наши специалисты готовы работать как со стандартными шаблонами, так и с чертежами заказчика. Мы гарантируем строгое соблюдение всех актуальных строительных норм, стандартов и требований.&nbsp;</p> </div>	
-	</article>
-
+<p>Основной принцип работы нашей компании — ответственный, гибкий и эффективный подход к решению задач любой сложности. Наши специалисты готовы работать как со стандартными шаблонами, так и с чертежами заказчика. Мы гарантируем строгое соблюдение всех актуальных строительных норм, стандартов и требований.&nbsp;</p>
 </div>
-    </section>
-		</div>
-				<!-- maininner end -->
+
 
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1709px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
@@ -91,6 +77,4 @@
 </ul>		
     </div>
         </div>
-            </aside>	
-			    </div>
-				    </div>
+</aside>	

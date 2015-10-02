@@ -1,81 +1,76 @@
-<section id="newsletter" class="mid_texture_8">
-	<div class="module   deepest">
-		<div class="custom">
-			<p>Здесь вы можете заказать любые услуги, предоставляемые компанией ООО ОКП "АРС" онлайн</p>
-			<p class="acysubbuttons align-right"><a class="newsletter-btn button-color jcepopup noicon" href="http://okpars.ru/index.php?option=com_chronoforms&amp;chronoform=Call" target="_blank">ЗАКАЗАТЬ ОНЛАЙН</a></p>
-		</div>		
+<div class="prevfooter">
+	<div class="container">
+		<p>Здесь вы можете заказать любые услуги, предоставляемые компанией ООО ОКП "АРС" онлайн</p>
+		<p class="pull-right"><a class="btn-orange" href="javascript: void(0);" data-targer="modal">ЗАКАЗАТЬ ОНЛАЙН</a>
 	</div>
-</section>
+</div>
 
-<section id="bottom-c" class="grid-block ">
-	<div class="module   deepest badge-hot" style="min-height: 161px;">
-		<div class="badge badge-hot"></div>
-		<h2 class="module-title">Центральный Офис</h2>	
-		<div class="custombadge-hot">
-			<p><img class="right size-auto" src="/images/okpars.ru/icons/world.png" alt=""></p>
-			<p>Центральный офис компании ООО ОКП "АРС" находится по адресу:</p>
-			<p>г.Владимир, ул.Дворянская 27А, корпус 1, 2 этаж</p>
-			<p><a class="button-color" href="/kontakty">Подробнее</a></p>
+<div class="footer"><div class="container">
+	<div class="row">
+		<div class="col-sm-6 col-md-3">
+			<p class="footer-h2">Время Работы офиса</p>	
+			<p>Офис компании ОКП "АРС" работает с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
+			<a href="/contacts">Подробнее</a>
+		</div>
+		<div class="col-sm-6 col-md-3">
+			<p class="footer-h2">Офис во Владимире</p>	
+			<p>Бизнес парк "Техника" Дворянская ул. 27А | Корпус 1 этаж 2й, ОКП "АРС"</p>
+			<address class="module-contact">
+				<span class="phone cont-info">8 800 7000 672</span> 
+				<span class="phone cont-info"> +7 4922 37 99 99 </span> 
+				<span class="email cont-info">info@okpars.ru</span> 
+				<span class="town cont-info">600001, Россия, г.Владимир.</span>
+			</address>
+		</div>
+		<div class="col-sm-6 col-md-3">
+			<p class="footer-h2">Офис во Москве</p>	
+			<p>Территория ОКБ МЭИ Красноказарменная ул. 14 | Корпус 4 офис 505</p>
+			<address class="module-contact">
+				<span class="phone cont-info">8 800 7000 672</span> 
+				<span class="email cont-info">market@okpars.ru</span> 
+				<span class="town cont-info">Россия, Москва</span>
+			</address>
+		</div>
+		<div class="col-sm-6 col-md-3">
+			<p class="footer-h2">Офис во Иркутске</p>	
+			<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
+			<address class="module-contact">
+				<span class="phone cont-info">+7 (3952) 288 890</span> 
+				<span class="town cont-info">664000, Россия, г. Иркутск</span>
+			</address>
 		</div>
 	</div>
-</section>
+</div></div>
 
-<section id="bottom-c" class="grid-block ">
-				<div class="bottom-gradient">
-					<div class="wrapper grid-block">
-						<div class="footer-body">
-							<div class="grid-box width16 grid-h"><div class="module   deepest" style="min-height: 284px;">
-
-		<h2 class="module-title">Офис во Владимире</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p>Бизнес парк "Техника"<br>Дворянская ул. 27А | корпус 1<br>2 этаж, ОКП "АРС"</p>
-
-<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> <span class="phone cont-info"> +7 4922 37 99 99 </span> <span class="email cont-info">info@okpars.ru</span> <span class="town cont-info">600001, Россия, г.Владимир.</span></address></div>		
-</div></div><div class="grid-box width16 grid-h"><div class="module   deepest" style="min-height: 284px;">
-
-		<h2 class="module-title">Офис в Москве</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p>Территория ОКБ МЭИ<br>Красноказарменная ул. 14 | Корпус 4<br>офис 505</p>
-
-<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> <span class="email cont-info">market@okpars.ru</span> <span class="town cont-info">Россия, Москва</span></address></div>		
-</div></div><div class="grid-box width16 grid-h"><div class="module   deepest" style="min-height: 284px;">
-
-		<h2 class="module-title">Офис в Иркутске</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
-<p><span class="phone cont-info">+7 (3952) 288 890</span></p>
-<p><span class="town cont-info">664000, Россия, г. Иркутск</span></p></div>		
-</div></div><div class="grid-box width50 grid-h"><div class="module   deepest" style="min-height: 284px;">
-
-		<h2 class="module-title">Время Работы офиса</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p>Офис компании ОКП "АРС" работает с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
-<p style="font-size: 12px; line-height: 15.796875px;"><a class="button-color right" href="/kontakty">Позвонить нам</a></p></div>		
-</div></div>						</div>	
-					</div>		
-				</div>
-</section>
-
-<footer id="footer" class="grid-block float-left">
+<div class="nextfooter">
 	<div class="module colored  deepest">
 		<ul class="menu menu-line"><li class="level1 item127"><a href="/o-kompanii" class="level1"><span>О компании</span></a></li><li class="level1 item186"><a href="/karta-sajta" class="level1"><span>Карта сайта</span></a></li></ul>		
 	</div>
 <!-- Yandex.Metrika informer -->
 <a href="http://metrika.yandex.ru/stat/?id=24195076&amp;from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/24195076/1_1_00315300_00315300_0_visits" style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (визиты)" class="size-auto"></a>
 <!-- /Yandex.Metrika informer -->
-</footer>
+</div>
+<?php include($root.'blocks/modal.php'); ?>
+
 
 <!-- build:remove -->
 <script src="/libs/jquery/dist/jquery.min.js"></script>
 <script src="/libs/bootstrap-sass/assets/javascripts/bootstrap.js"></script>
+<script src="/libs/mega-site-navigation/js/main.js"></script>
 <script src="/js/jquery.mousewheel-3.0.6.pack.js"></script>
 <script src="/js/jquery.fancybox.pack.js"></script>
 <script src="/js/common.js"></script>
 <!-- /build -->
+
+<!-- old
+<script type="text/javascript" src="/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.4.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-newspro1"] = {
+	"animation_speed": 2000};
+//]]>
+</script> /old -->
 
 <!-- build:template
 <script>

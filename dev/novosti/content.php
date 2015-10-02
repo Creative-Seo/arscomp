@@ -7,7 +7,7 @@
 <div id="system">
 	<div class="items items-col-1 grid-block">
 	    <div class="grid-box width100 leading">
-<article class="item" data-permalink="http://okpars.ru/novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk">
+<article class="item" data-permalink="/novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk">
 	
 	<div class="content clearfix">
 
@@ -28,7 +28,7 @@
 </article>
         </div>
     <div class="grid-box width100">
-<article class="item" data-permalink="http://okpars.ru/novosti/67-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2">
+<article class="item" data-permalink="/novosti/67-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2">
 
 	<div class="content clearfix">
 

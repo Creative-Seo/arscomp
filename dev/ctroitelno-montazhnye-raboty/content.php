@@ -1,11 +1,5 @@
-<div class="wrapper grid-block content-texture">
-		<div id="main" class="grid-block">
-			<div id="maininner" class="grid-box" style="min-height: 1049px;">
-				<section id="content" class="grid-block">
-				<div id="system-message-container"></div>
-<div id="system">
-	<article class="item">
-		    <div class="content clearfix">
+<div class="container">
+
 
 <p>Особое Конструкторское Подразделение «АРС» предлагает услуги по проведению строительно-монтажных работ.&nbsp;</p>
 <p><img style="float: right;" src="/images/matc/stroyka/stroitelstvo-okpars.ru-02.jpg" alt="" width="300" class="size-auto"></p>
@@ -29,13 +23,9 @@
         <li>Специальные работы. Все, что касается специфических материалов и способов производства. Монтаж защитных покрытий, устройство сетей связи, санитарно-технические системы, элеваторы.&nbsp;</li>
         <li>Комплекс транспортных и погрузочно-разгрузочных услуг. Доставка материалов, деталей и конструкций, необходимого строительного инвентаря и инструмента. Работа с грузоперевозочным, подвесным, конвейерным транспортом.&nbsp;</li>
             </ul> 		
-                </div>
-	
-	</article>
 </div>
-                </section>
-			</div>
-				<!-- maininner end -->
+
+
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
 	        <ul class="menu menu-sidebar">
@@ -97,5 +87,3 @@
 </div>
 </div>
 </aside>	
-	</div>
-		</div>
