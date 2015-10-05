@@ -7,7 +7,7 @@
 </div>	
 
 
-	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;">
+	<aside id="sidebar-a" class="grid-box">
 	<div class="grid-box width100 grid-v">
 	    <div class="module mod-box colored deepest">
 			    <ul class="menu menu-sidebar">

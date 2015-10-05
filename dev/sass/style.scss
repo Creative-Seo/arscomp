@@ -5,9 +5,7 @@ $background: #f4f4f4;
 
 /*Colors*/
 /*Body*/
-body {
-	background: $background;
-}
+
 /*Body*/
 /*header*/
 .h p{
@@ -25,13 +23,25 @@ body {
 /*TYPOGRAPHY*/
 h1,.h1 {padding-bottom:20px;}
 h2,.h2 {
-		text-align: center;
-		padding: 10px;
 		text-transform: uppercase;
-		font-size: 22px;
+		font-size: 20px;
 	}
 .pull-left {
     padding-right: 10px;
+}
+.margin-bottom{
+	margin-bottom: 10px;
+}
+.btn-orange { 
+	padding: 5px 15px;
+	background-color: #f60;
+	&:hover, &:focus {
+		background: url('/images/bg-nav.png') 0 -25px repeat-x #f60;
+	}
+	&, &:hover, &:focus{
+		color: #fff;
+		text-decoration: none;
+	}
 }
 /*TYPOGRAPHY*/
 /* SLIDER*/
@@ -44,11 +54,17 @@ h2,.h2 {
 
 /*FOOTER*/
 .house {width: 100%; height:auto; max-height: 200px;}
+.prevfooter{
+	margin-top: 20px;
+	background: url('/images/paper2.jpg') repeat scroll top left #F2F2F2;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 14px;
+}
 .footer {
 	padding-bottom:30px;
-	background-color: #212221;
-	color: #fff;
 	position: relative;
+	border-bottom: 1px solid #ddd;
 	li{
 		padding: 5px;
 		span, a {
@@ -58,5 +74,9 @@ h2,.h2 {
 	}
 	&-stack{padding: 10px;}
 	&-hr{border-top: 1px solid #ccc;}
+}
+.nextfooter{
+	background-color: #fff;
+	border-bottom: 1px solid #f60;
 }
 /*FOOTER*/

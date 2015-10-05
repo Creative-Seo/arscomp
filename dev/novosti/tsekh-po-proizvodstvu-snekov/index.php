@@ -2,12 +2,9 @@
 $description = 'Новости ОКП &quot;АРС&quot; 8 800 7000 672';
 $keywords = '';
 
-$lang = json_decode('{
-"h1":"Цех по производству снековой продукции"
-}',true);
+$h1 = 'Цех по производству снековой продукции';
 
-$root='../';
+$root='../../';
 $dir=$_SERVER['REQUEST_URI'];
-include($root."config.php");
-include($root."template".$dir."ind.php");
+include("../template.php");
 ?>
