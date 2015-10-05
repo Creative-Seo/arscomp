@@ -53,7 +53,7 @@
 <address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> 
 <span class="email cont-info">market@okpars.ru</span> 
 <span class="town cont-info">Россия, Москва</span></address>
-
+<p align="center"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=jIJW9bmi9_cr5i-8NuoHzT0QMyM5x3fS&width=792&height=414&lang=ru_RU&sourceType=constructor"></script><p>
 </div>	
 </div>
 </div>
@@ -68,6 +68,7 @@
 <p><span class="town cont-info">664000, Россия, г. Иркутск</span></p></div>		
 </div>
     </div>
+    <p align="center"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=-_BEw1oC34C86uvMXLzxK6kVbc7Rr7iq&width=792&height=414&lang=ru_RU&sourceType=constructor"></script></p>
         </aside>
 		
 		<aside id="sidebar-b" class="grid-box" style="min-height: 504px;"><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
@@ -80,6 +81,8 @@
 </div>		
 </div>
 </div>
+<p align="center"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=5seRyoesH-3B1YVavijfF1iAqmOAMsJh&width=792&height=414&lang=ru_RU&sourceType=constructor"></script></p>
+
 </aside>
 	</div>
 		</div>
