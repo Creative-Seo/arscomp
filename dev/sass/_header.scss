@@ -1,7 +1,20 @@
 .header {
-	background-color:$header-color-back;
-	color:$header-color;
-	line-height:$header-height;
+	background: url('/images/paper.jpg') repeat scroll top left #F2F2F2;
+	width: 100%;
+	padding-top: 5vh;
+	border-bottom: 2px solid $header-orange;
+	&-href{
+		&, &:hover, &:focus{
+			font-size:26px;
+			color:$header-orange;
+			text-decoration: none;
+		}
+	}
+	&-text{
+		background: url('/images/border.png') no-repeat scroll left center transparent;
+		padding: 10px;
+		color:#777;
+	}
 }
 //Адрес
 .adres{

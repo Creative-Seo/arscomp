@@ -8,9 +8,21 @@ body {
 	font-family:$font-body-open-sans;
 	font-weight:$font-weight-body;
 	font-size:$font-size-body;
+    background-color: #fcfcfc;
+    color:#666;
 	ul li {
 		list-style-type: none;
 	}
+}
+.title{
+    background: url('/images/bg-h1.png') 500px 0 no-repeat $header-orange;
+    margin: 0 0;
+    margin-bottom: 10px;
+    color: #fff;
+    &-gradient{
+        background: url('/images/bg-nav.png') 0 0 repeat-x transparent;
+        padding-top: 20px;
+    }
 }
 
 //ripple
