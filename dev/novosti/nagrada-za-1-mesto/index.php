@@ -6,8 +6,7 @@ $lang = json_decode('{
 "h1":"Первое место в архитектурном конкурсе"
 }',true);
 
-$root='../';
+$root='../../';
 $dir=$_SERVER['REQUEST_URI'];
-include($root."config.php");
-include($root."template".$dir."ind.php");
+include("../template.php");
 ?>

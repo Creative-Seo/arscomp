@@ -1,7 +1,18 @@
 .header {
-	background-color:$header-color-back;
-	color:$header-color;
-	line-height:$header-height;
+	background: url('/images/paper.jpg') repeat scroll top left #F2F2F2;
+	width: 100%;
+	height: 10vh;
+	position: relative;
+	&-href{
+		&, &:hover, &:focus{
+			position:relative;
+			bottom: 0px;
+			top: auto;
+			font-size:32px;
+			color:$header-orange;
+			text-decoration: none;
+		}
+	}
 }
 //Адрес
 .adres{

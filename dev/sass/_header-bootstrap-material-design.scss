@@ -18,29 +18,29 @@ $brown: #795548 !default;
 $lightgrey: #ECECEC !default;
 
 // Bootstrap shades
-$primary: #4285F4 !default;
+$primary: #fff !default;
 $success: #0F9D58 !default;
 $info: $lightblue !default;
 $warning: $deeporange !default;
 $danger: $red !default;
 
 // Typography elements for Material
-$darkbg-text: rgba(255,255,255,0.84);
-$lightbg-text: rgba(0,0,0,0.84);
+$darkbg-text: #666;
+$lightbg-text: #fff;
 $icon-color: rgba(0,0,0,0.5);
 
 $navbar-danger-bg: $danger;
-$navbar-inverse-bg: #5264AE;
+$navbar-inverse-bg: #f60;
 $navbar-warning-bg: $warning;
 $navbar-success-bg: $success;
 $navbar-info-bg:    $info;
 $navbar-default-bg: $primary;
 $navbar-color: $darkbg-text;
 $navbar-link-color: $darkbg-text;
-$navbar-link-hover-color: $darkbg-text;
-$navbar-link-hover-bg: transparent;
-$navbar-link-active-color: $darkbg-text;
-$navbar-link-active-bg: rgba(0,0,0,0.05);
+$navbar-link-hover-color: $lightbg-text;
+$navbar-link-hover-bg: #f60;
+$navbar-link-active-color: $lightbg-text;
+$navbar-link-active-bg: #f60;
 $navbar-link-disabled-color: #E5E5E5;
 $navbar-link-disabled-bg: transparent;
 $navbar-brand-color: $darkbg-text;

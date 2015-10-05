@@ -1,7 +1,7 @@
 <!--HEADER-->
 <div class="header">
 	<div class="container">
-		<p><a href="tel:8 800 7000 672">8 800 7000 672 &nbsp;</a><a href="tel:8 800 7000 672">| &nbsp;8 (4922) 37 99 99</a></p>
+		<p><a class="header-href" href="tel:8 800 7000 672">8 800 7000 672 &nbsp;</a><a class="header-href" href="tel:8 800 7000 672">| &nbsp;8 (4922) 37 99 99</a></p>
 	</div>
 </div>
 <div class="header-logo">

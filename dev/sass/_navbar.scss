@@ -1,0 +1,8 @@
+.navbar-default {
+	background: url('/images/bg-nav.png') 0 0 repeat-x #FAFAFA;
+}
+.navbar.navbar-nav > li > a {
+	&:hover, &:focus {
+		background: url('/images/bg-nav.png') 0 0 repeat-x #FAFAFA;
+	}
+}

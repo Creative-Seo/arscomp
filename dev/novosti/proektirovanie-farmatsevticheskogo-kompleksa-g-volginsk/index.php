@@ -6,8 +6,7 @@ $lang = json_decode('{
 "h1":"В настоящее время ОКП "АРС" ведет проектиование Фармацевтического комплекса в г. Вольгинск.&nbsp;"
 }',true);
 
-$root='../';
+$root='../../';
 $dir=$_SERVER['REQUEST_URI'];
-include($root."config.php");
-include($root."template".$dir."ind.php");
+include("../template.php");
 ?>

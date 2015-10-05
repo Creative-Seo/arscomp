@@ -6,8 +6,7 @@ $lang = json_decode('{
 "h1":"Проектирование и Строительство производственного корпуса ООО Фирмы \"Цикл\""
 }',true);
 
-$root='../';
+$root='../../';
 $dir=$_SERVER['REQUEST_URI'];
-include($root."config.php");
-include($root."template".$dir."ind.php");
+include("../template.php");
 ?>
