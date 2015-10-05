@@ -1,8 +1,8 @@
-<div class="prevfooter paper">
-	<div class="container">
-		<p>Здесь вы можете заказать любые услуги, предоставляемые компанией ООО ОКП "АРС" онлайн</p>
-		<p class="pull-right"><a class="btn-orange" href="javascript: void(0);" data-targer="modal">ЗАКАЗАТЬ ОНЛАЙН</a>
-	</div>
+<div class="prevfooter">
+	<div class="container-fluid"><div class="row">
+		<div class="col-sm-8"><p>Здесь вы можете заказать любые услуги, предоставляемые компанией ООО ОКП "АРС" онлайн</p></div>
+		<div class="col-sm-4 text-right"><p><a class="btn-orange" href="javascript: void(0);" data-targer="modal">ЗАКАЗАТЬ ОНЛАЙН</a></p></div>
+	</div></div>
 </div>
 
 <div class="footer"><div class="container">

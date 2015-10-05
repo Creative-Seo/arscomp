@@ -1,17 +1,19 @@
 .header {
 	background: url('/images/paper.jpg') repeat scroll top left #F2F2F2;
 	width: 100%;
-	height: 10vh;
-	position: relative;
+	padding-top: 5vh;
+	border-bottom: 2px solid $header-orange;
 	&-href{
 		&, &:hover, &:focus{
-			position:relative;
-			bottom: 0px;
-			top: auto;
-			font-size:32px;
+			font-size:26px;
 			color:$header-orange;
 			text-decoration: none;
 		}
+	}
+	&-text{
+		background: url('/images/border.png') no-repeat scroll left center transparent;
+		padding: 10px;
+		color:#777;
 	}
 }
 //Адрес

@@ -6,6 +6,6 @@ include($root.'blocks/h1.php');?>
 
 <div class="container">
 <?php include('content.php');?>
-</div>>
+</div>
 
 <?php include($root.'blocks/footer.php');?>

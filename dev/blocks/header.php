@@ -7,6 +7,6 @@
 <div class="header-logo">
 	<div class="container">
 		<img src="/images/okpars.ru/logo/logoArs.png" class="header-img" height="100px" width="124px" alt="Особое Конструкторское Подразделение">
-		<span>Особое Конструкторское Подразделение</span>
+		<span class="header-text">Особое Конструкторское Подразделение</span>
 	</div>
 </div>

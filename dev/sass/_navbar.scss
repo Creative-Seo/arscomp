@@ -1,8 +1,13 @@
 .navbar-default {
-	background: url('/images/bg-nav.png') 0 0 repeat-x #FAFAFA;
+	background: url('/images/bg-nav.png') 0 0 repeat-x #fff;
+	border-top:1px solid #ddd;
+	border-bottom:1px solid #ddd;
 }
-.navbar.navbar-nav > li > a {
-	&:hover, &:focus {
-		background: url('/images/bg-nav.png') 0 0 repeat-x #FAFAFA;
+.navbar {
+	margin-bottom: 0;
+	.navbar-nav > li > a {
+		&:hover, &:focus {
+			background: url('/images/bg-nav.png') 0 0 repeat-x #f60;
+		}
 	}
 }
