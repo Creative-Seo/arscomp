@@ -4,7 +4,7 @@ $description = '';
 $keywords = '';
 $h1 = 'Технология сборно-монолитного каркаса';
 
-$root = '../';
+$root = '../../';
 include($root.'blocks/meta.php');
 include($root.'blocks/header.php');
 include($root.'blocks/navbar.php');

@@ -1,14 +1,4 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-			<section id="content" class="grid-block">
-			    <div id="system-message-container"></div>
-
-<div id="system">
-	
-	<article class="item">
-
-		<div class="content clearfix">
+<div class="container">
 
 		
 <p>Защитите вашу жизнь и имущество прямо сейчас! ООО ОКП «АРС» предлагает комплекс услуг по осуществлению пожарной безопасности.</p>
@@ -37,15 +27,9 @@
 <li>Доступные цены.&nbsp;</li>
     </ul>
 <p>Все предлагаемые услуги сертифицированы и отвечают всем необходимым стандартам и требованиям.&nbsp;</p>
- 		</div>
-	
-	</article>
+</div>
 
-</div></section>
-		</div>
-				<!-- maininner end -->
 
-				
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
 			        <ul class="menu menu-sidebar">
@@ -107,5 +91,3 @@
 </div>
     </div>
         </aside>	
-			</div>
-				</div>

@@ -32,7 +32,7 @@
 <li><a href="/uslugi/pozharnaya-bezopasnost" title="ПОЖАРНАЯ БЕЗОПАСНОСТЬ">ПОЖАРНАЯ БЕЗОПАСНОСТЬ</a></li>
 <li><a href="/uslugi/avtonomnaya-gazafikatsiya" title="АВТОНОМНАЯ ГАЗИФИКАЦИЯ">АВТОНОМНАЯ ГАЗИФИКАЦИЯ</a></li>
 <li><a href="/uslugi/arenda-spetsavtotransporta" title="АРЕНДА СПЕЦАВТОТРАНСПОРТА">АРЕНДА СПЕЦАВТОТРАНСПОРТА</a></li>
-<li><a href="http://proburimsya.ru/" title="БУРЕНИЕ СКВАЖИН" target="_blank">БУРЕНИЕ СКВАЖИН&nbsp;<img src="http://okpars.ru/components/com_xmap/assets/images/img_blue.gif" alt="Ссылка открывается в новом окне " title="Ссылка открывается в новом окне " border="0" class="size-auto"></a></li>
+<li><a href="http://proburimsya.ru/" title="БУРЕНИЕ СКВАЖИН" target="_blank">БУРЕНИЕ СКВАЖИН&nbsp;<img src="/components/com_xmap/assets/images/img_blue.gif" alt="Ссылка открывается в новом окне " title="Ссылка открывается в новом окне " border="0" class="size-auto"></a></li>
     </ul>
 </li>
 

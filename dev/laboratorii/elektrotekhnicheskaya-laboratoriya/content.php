@@ -1,11 +1,4 @@
-<div class="wrapper grid-block content-texture">
-	<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-			<section id="content" class="grid-block"><div id="system-message-container">
-	</div>
-<div id="system">
-	<article class="item">
-		<div class="content clearfix">
+<div class="container">
 
 		
 <p>Контроль над качеством электросетей — задача, не теряющая своей актуальности. Современная электротехническая лаборатория позволяет получить наиболее точные результаты электротехнических измерений.</p>
@@ -32,11 +25,8 @@
 <li>Качественное выполнение работ, разумные сроки, доступные цены.</li>
 </ul>
 <p>Услуги электротехнической лаборатории доступны после заключения договора с заказчиком — физическим или юридическим лицом. Каждая электротехническая лаборатория обладает лицензией и пакетом необходимой разрешительной документации.&nbsp;</p>
- 		</div>		
-	</article>/div&gt;</div>
-	    </section>	
-			</div>
-				<!-- maininner end -->
+</div>		
+
 
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;"><div class="grid-box width100 grid-v"><div class="module mod-box colored deepest">
 
@@ -99,5 +89,3 @@
 </div>
     </div>
         </aside>						
-			</div>
-				</div>

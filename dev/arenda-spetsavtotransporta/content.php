@@ -1,19 +1,12 @@
-<div class="wrapper grid-block content-texture">
-		<div id="main" class="grid-block">
-		<div id="maininner" class="grid-box" style="min-height: 1049px;">
-		<section id="content" class="grid-block">
-	<div id="system-message-container"></div>
-<div id="system">
-	<article class="item">
-	<div class="content clearfix">
+<div class="container">
+
+
 <p>ООО ОКП "АРС" расширяет парк строительной техники. В данный момент ведётся закупка спецавтотехники.</p>
 <p>Очень скоро здесь появится информация.</p>
-<p><img src="/images/matc/avto/2012-08-30_231155.jpg" alt="" class="size-auto"></p></div>	
-	</article>
-</div>
-        </section>
-		</div>
-				<!-- maininner end -->
+<p><img src="/images/matc/avto/2012-08-30_231155.jpg" alt="" class="size-auto"></p>
+</div>	
+
+
 	<aside id="sidebar-a" class="grid-box" style="min-height: 1049px;">
 	<div class="grid-box width100 grid-v">
 	    <div class="module mod-box colored deepest">
@@ -74,5 +67,3 @@
         </div>
 </div>
 </aside>
-		</div>
-			</div>
