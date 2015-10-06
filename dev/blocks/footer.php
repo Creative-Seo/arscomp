@@ -59,6 +59,7 @@
 <script src="/libs/mega-site-navigation/js/main.js"></script>
 <script src="/js/jquery.mousewheel-3.0.6.pack.js"></script>
 <script src="/js/jquery.fancybox.pack.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
 <script src="/js/common.js"></script>
 <!-- /build -->
 

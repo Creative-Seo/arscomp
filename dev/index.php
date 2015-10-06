@@ -4,6 +4,7 @@ $description = 'проектирование,архитектурное прое
 $keywords = '';
 
 $root = '';
+include($root.'config.php');
 include($root.'blocks/meta.php');
 include($root.'blocks/header.php');
 include($root.'blocks/navbar.php');
