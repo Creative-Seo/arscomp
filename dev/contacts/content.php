@@ -1,9 +1,64 @@
+<div id="map" style='width: 100%;; height: 450px'>
+			    <p align="center"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=glG3ZPDVhHLtDLxiAp-ycBX_4ZI4TBNt&width=100%&height=430&lang=ru_RU&sourceType=constructor"></script></p>
+</div>
 <div class="container">
-<div class="wrapper grid-block content-texture">
+
+				<!-- maininner end -->
+				
+		<aside id="sidebar-a" class="grid-box" style="min-height: 204px;">
+		<div class="col-lg-4 col-md-4">
+		<div class="grid-box width100 grid-v">
+		    <div class="module mod-box  deepest">
+		<h2 class="module-title"><span class="color">Офис</span> в Москве</h2>	
+<!-- get background image -->
+<div class="custom">
+	<p>Территория ОКБ МЭИ<br>Красноказарменная ул. 14 | Корпус 4<br>офис 505</p>
+
+<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> 
+<span class="email cont-info">market@okpars.ru</span> 
+<span class="town cont-info">Россия, Москва</span></address>
+</div>	
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4">
+        <div class="grid-box width100 grid-v">
+            <div class="module mod-box  deepest">
+
+		<h2 class="module-title"><span class="color">Офис</span> в Иркутске</h2>	
+<!-- get background image -->
+<div class="custom">
+	<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
+<p><span class="phone cont-info">+7 (3952) 288 890</span></p>
+<p><span class="town cont-info">664000, Россия, г. Иркутск</span></p>
+</div>		
+</div>
+    </div>
+    </div>
+		
+		<div class="col-lg-4 col-md-4">
+	   <div class="grid-box width100 grid-v">
+	   <div class="module mod-box  deepest">
+		<h2 class="module-title"><span class="color">Офис</span> во Владимире</h2>	
+<!-- get background image -->
+<div class="custom">
+	<p>Бизнес парк "Техника"<br>Дворянская ул. 27А | корпус 1<br>2 этаж, ОКП "АРС"</p>
+
+<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> <span class="phone cont-info"> +7 4922 37 99 99 </span> <span class="email cont-info">info@okpars.ru</span> <span class="town cont-info">600001, Россия, г.Владимир.</span></address>
+</div>		
+</div>
+</div>
+</div>
+</aside>
+	
+		
+
+		<div class="wrapper grid-block content-texture">
 	<div id="main" class="grid-block">
 		<div id="maininner" class="grid-box" style="min-height: 504px;">
 			<section id="content" class="grid-block">
 			    <div id="system-message-container"></div>
+
 <div id="system">
 	<div class="item">
 	<h2 class="module-title">Форма обратной связи</h2>
@@ -40,15 +95,14 @@
 		<div class="col-sm-10">			
 			<textarea name="jform[contact_message]" id="jform_contact_message" cols="50" rows="10" required="" aria-required="true"></textarea>		
 		</div>
+		</div>
 
 		<div class="form-group">
 			<label id="jform_contact_email_copy-lbl" for="jform_contact_email_copy" class="col-sm-3 control-label" title="" data-original-title="<strong>Отправить копию этого сообщения на ваш адрес</strong><br />Отправляет копию данного сообщения на указанный вами адрес.">Отправить копию этого сообщения на ваш адрес</label>
-		<div class="col-sm-2">	
+		<div class="col-sm-1">	
 			<input type="checkbox" name="jform[contact_email_copy]" id="jform_contact_email_copy" value="1">   
 		</div>
-		</div>
-
-	<div class="submit form-group">
+		<div class="col-sm-1"></div>
 		<button class="button validate" type="submit">Отправить сообщение</button>
 	</div>
 	
@@ -63,50 +117,6 @@
 </div>
 </section>
 	</div>
-				<!-- maininner end -->
-				
-		<aside id="sidebar-a" class="grid-box" style="min-height: 504px;">
-		<div class="grid-box width100 grid-v">
-		    <div class="module mod-box  deepest">
-		<h2 class="module-title"><span class="color">Офис</span> в Москве</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p>Территория ОКБ МЭИ<br>Красноказарменная ул. 14 | Корпус 4<br>офис 505</p>
-
-<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> 
-<span class="email cont-info">market@okpars.ru</span> 
-<span class="town cont-info">Россия, Москва</span></address>
-<p align="center"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=jIJW9bmi9_cr5i-8NuoHzT0QMyM5x3fS&width=792&height=414&lang=ru_RU&sourceType=constructor"></script><p>
-</div>	
-</div>
-</div>
-        <div class="grid-box width100 grid-v">
-            <div class="module mod-box  deepest">
-
-		<h2 class="module-title"><span class="color">Офис</span> в Иркутске</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
-<p><span class="phone cont-info">+7 (3952) 288 890</span></p>
-<p><span class="town cont-info">664000, Россия, г. Иркутск</span></p></div>		
-</div>
-    </div>
-    <p align="center"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=-_BEw1oC34C86uvMXLzxK6kVbc7Rr7iq&width=792&height=414&lang=ru_RU&sourceType=constructor"></script></p>
-        </aside>
-		
-		<aside id="sidebar-b" class="grid-box" style="min-height: 504px;"><div class="grid-box width100 grid-v"><div class="module mod-box  deepest">
-		<h2 class="module-title"><span class="color">Офис</span> во Владимире</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p>Бизнес парк "Техника"<br>Дворянская ул. 27А | корпус 1<br>2 этаж, ОКП "АРС"</p>
-
-<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> <span class="phone cont-info"> +7 4922 37 99 99 </span> <span class="email cont-info">info@okpars.ru</span> <span class="town cont-info">600001, Россия, г.Владимир.</span></address>
-</div>		
-</div>
-</div>
-<p align="center"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=5seRyoesH-3B1YVavijfF1iAqmOAMsJh&width=792&height=414&lang=ru_RU&sourceType=constructor"></script></p>
-
-</aside>
 	</div>
 		</div>
 		</div>
