@@ -1,5 +1,7 @@
 @import "variables";
 @import "bootstrap";
+@import "owlcarousel";
+
 /*Colors*/
 $background: #f4f4f4;
 
@@ -45,13 +47,15 @@ h2,.h2 {
 }
 /*TYPOGRAPHY*/
 /* SLIDER*/
-
-
 /* SLIDER*/
 /*MAP*/
 .map-yandex {padding: 10px;height: 50vh;}
 /*MAP*/
-
+/*GALEREYA*/
+.intro{
+	padding: 5px;
+}
+/*GALEREYA*/
 /*FOOTER*/
 .house {width: 100%; height:auto; max-height: 200px;}
 .prevfooter{
@@ -74,6 +78,7 @@ h2,.h2 {
 	}
 	&-stack{padding: 10px;}
 	&-hr{border-top: 1px solid #ccc;}
+	&-h2{color: #F56C13; font-size: 24px;}
 }
 .nextfooter{
 	background-color: #fff;

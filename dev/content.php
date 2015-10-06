@@ -123,70 +123,14 @@
 									</div>
 				<!-- maininner end -->
 
-				
-		<aside id="sidebar-a" class="grid-box" style="min-height: 612px;">
-		<div class="grid-box width100 grid-v">
-		<div class="module mod-box  deepest">
 
-		<h2 class="module-title"><span class="color">Наши</span> партнёры</h2>	
-<div id="slideshow-1-5602b3367e46a" class="wk-slideshow wk-slideshow-default" data-widgetkit="slideshow" data-options="{&quot;style&quot;:&quot;default&quot;,&quot;autoplay&quot;:1,&quot;interval&quot;:3000,&quot;width&quot;:150,&quot;height&quot;:150,&quot;duration&quot;:500,&quot;index&quot;:0,&quot;order&quot;:&quot;random&quot;,&quot;navigation&quot;:0,&quot;buttons&quot;:0,&quot;slices&quot;:20,&quot;animated&quot;:&quot;scroll&quot;,&quot;caption_animation_duration&quot;:600}" style="position: relative; visibility: visible; width: 150px;">
-	<div>
-		<ul class="slides" style="width: 100%; overflow: hidden; position: relative; height: 150px;">
-
-	<li style="position: absolute; top: 0px; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix"><div><img src="/images/okpars.ru/partneri/new_partner/20-10.png" alt="20-10" width="150" height="150" class="size-auto"></div></article>
-	</li>
-	<li style="position: absolute; top: 0px; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix"><div><img src="/images/okpars.ru/partneri/new_partner/20-6.png" data-src="/images/okpars.ru/partneri/new_partner/20-6.png" alt="20-6" width="150" height="150" class="size-auto"></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix">
-    <div><img src="/images/okpars.ru/partneri/new_partner/20-1.png" data-src="/images/okpars.ru/partneri/new_partner/20-1.png" alt="20-1" width="150" height="150" class="size-auto"></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; z-index: 2; display: block; left: 0px;">
-	<article class="wk-content clearfix"><a href="http://www.cicle.ru/" rel="nofollow" target="_blank"><img src="/images/okpars.ru/partneri/new_partner/12.png" data-src="/images/okpars.ru/partneri/new_partner/12.png" alt="12" class="size-auto"></a></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-    <article class="wk-content clearfix"><div><img src="/images/okpars.ru/partneri/new_partner/20-2.png" data-src="/images/okpars.ru/partneri/new_partner/20-2.png" alt="20-2" width="150" height="150" class="size-auto"></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix"><div><a href="http://www.federalspace.ru/" rel="nofollow" target="_blank"><img src="/images/okpars.ru/partneri/new_partner/20-4.png" data-src="/images/okpars.ru/partneri/new_partner/20-4.png" alt="20-4" width="150" height="150" class="size-auto"></a></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix">
-    <div><a href="http://www.npo-psb.ru" rel="nofollow" target="_blank"><img src="/images/okpars.ru/partneri/new_partner/20-3.png" data-src="/images/okpars.ru/partneri/new_partner/20-3.png" alt="20-3" width="150" height="150" class="size-auto"></a></div></article>
-    </li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix"><div><a href="http://www.juteks.ru/" rel="nofollow" target="_blank"><img src="/images/okpars.ru/partneri/new_partner/20-5.png" data-src="/images/okpars.ru/partneri/new_partner/20-5.png" alt="20-5" width="150" height="150" class="size-auto"></a></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix"><div><a href="http://www.vtf.ru/" rel="nofollow" target="_blank"><img src="/images/okpars.ru/partneri/new_partner/20-7.png" data-src="/images/okpars.ru/partneri/new_partner/20-7.png" alt="20-7" width="150" height="150" class="size-auto"></a></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix"><div><a href="http://www.mos.ru/" rel="nofollow" target="_blank"><img src="/images/okpars.ru/partneri/new_partner/20-11.png" data-src="/images/okpars.ru/partneri/new_partner/20-11.png" alt="20-11" width="150" height="150" class="size-auto"></a></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: -150px;">
-	<article class="wk-content clearfix"><div><a href="http://www.techagro.ru/" rel="nofollow" target="_blank"><img src="/images/okpars.ru/partneri/new_partner/20-8.png" data-src="/images/okpars.ru/partneri/new_partner/20-8.png" alt="20-8" width="150" height="150" class="size-auto"></a></div></article>
-	</li>
-	<li style="top: 0px; position: absolute; height: 150px; width: 150px; display: none; z-index: 1; left: 150px;">
-	<article class="wk-content clearfix"><div><img src="/images/okpars.ru/partneri/new_partner/20-9.png" data-src="/images/okpars.ru/partneri/new_partner/20-9.png" alt="20-9" width="150" height="150" class="size-auto"></div></article>
-	</li>
-	</ul>
-	<div class="caption" style="display: none;"></div><ul class="captions" style="display: none;"><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>
+<h2 class="module-title"><span class="color">Наши</span> партнёры</h2>	
+<div class="row">
+<?php $partneri=[["20-1.png",""],["20-2.png",""],["20-3.png",""],["20-4.png",""],["20-5.png",""],["20-6.png",""],["20-7.png",""],["20-8.png",""],["20-9.png",""],["20-10.png",""],["20-11.png",""],["12.png",""]];
+foreach ($partneri as $row) {
+?>
+	<div class="col-sm-3">
+		<img src="/images/okpars.ru/partneri/new_partner/<?php echo row[0];?>"alt="2<?php echo row[2];?>" width="150" height="150"></div>
 	</div>
-	</div>		
+<?php } ?>
 </div>
-    </div>
-        <div class="grid-box width100 grid-v">
-        <div class="module mod-box  deepest">
-
-		<h2 class="module-title"><span class="color">Время</span> Работы офиса</h2>	
-<!-- get background image -->
-<div class="custom">
-	<p style="font-size: 12px; line-height: 15.796875px;"><img class="left size-auto" src="/images/okpars.ru/vremya-raboti/time.png" alt="open-time" border="0">Офис компании ОКП "АРС" работает с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
-<p style="font-size: 12px; line-height: 15.796875px;"><a class="button-color right" href="/kontakty">Позвонить нам</a></p></div>		
-    </div>
-    </aside>
-    </div>							
-	</div>
-	</div>
