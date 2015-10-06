@@ -46,9 +46,10 @@
 	<div class="module colored  deepest">
 		<ul class="menu menu-line"><li class="level1 item127"><a href="/o-kompanii" class="level1"><span>О компании</span></a></li><li class="level1 item186"><a href="/karta-sajta" class="level1"><span>Карта сайта</span></a></li></ul>		
 	</div>
-<!-- Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika informer 
 <a href="http://metrika.yandex.ru/stat/?id=24195076&amp;from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/24195076/1_1_00315300_00315300_0_visits" style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (визиты)" class="size-auto"></a>
-<!-- /Yandex.Metrika informer -->
+ /Yandex.Metrika informer -->
 </div>
 <?php include($root.'blocks/modal.php'); ?>
 
