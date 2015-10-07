@@ -8,43 +8,46 @@
 <div class="footer"><div class="container">
 	<div class="row">
 		<div class="col-sm-6 col-md-3">
-			<p class="footer-h2">Время Работы офиса</p>	
-			<p>Офис компании ОКП "АРС" работает с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
+			<p class="footer-h2">Время Работы офиса</p>
+			<p><i class="fa fa-clock-o"></i>Офис компании ОКП "АРС" работает с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
 			<a href="/contacts">Подробнее</a>
 		</div>
 		<div class="col-sm-6 col-md-3">
 			<p class="footer-h2">Офис во Владимире</p>	
 			<p>Бизнес парк "Техника" Дворянская ул. 27А | Корпус 1 этаж 2й, ОКП "АРС"</p>
-			<address class="module-contact">
-				<span class="phone cont-info">8 800 7000 672</span> 
-				<span class="phone cont-info"> +7 4922 37 99 99 </span> 
-				<span class="email cont-info">info@okpars.ru</span> 
-				<span class="town cont-info">600001, Россия, г.Владимир.</span>
-			</address>
+			<ul class="list-unstyled">
+				<li><i class="fa fa-phone"></i>8 800 7000 672</li> 
+				<li><i class="fa fa-phone"></i>+7 4922 37 99 99</li> 
+				<li><i class="fa fa fa-envelope-o"></i>info@okpars.ru</li> 
+				<li><i class="fa fa-home"></i>600001, Россия, г.Владимир.</li>
+			</ul>
 		</div>
 		<div class="col-sm-6 col-md-3">
 			<p class="footer-h2">Офис во Москве</p>	
 			<p>Территория ОКБ МЭИ Красноказарменная ул. 14 | Корпус 4 офис 505</p>
-			<address class="module-contact">
-				<span class="phone cont-info">8 800 7000 672</span> 
-				<span class="email cont-info">market@okpars.ru</span> 
-				<span class="town cont-info">Россия, Москва</span>
-			</address>
+			<ul class="list-unstyled">
+				<li><i class="fa fa-phone"></i>8 800 7000 672</li> 
+				<li><i class="fa fa-envelope-o"></i>market@okpars.ru</li> 
+				<li><i class="fa fa-home"></i>Россия, Москва</li>
+			</ul>
 		</div>
 		<div class="col-sm-6 col-md-3">
 			<p class="footer-h2">Офис во Иркутске</p>	
 			<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
-			<address class="module-contact">
-				<span class="phone cont-info">+7 (3952) 288 890</span> 
-				<span class="town cont-info">664000, Россия, г. Иркутск</span>
-			</address>
+			<ul class="list-unstyled">
+				<li><i class="fa fa-phone"></i>+7 (3952) 288 890</li> 
+				<li><i class="fa fa-home"></i>664000, Россия, г. Иркутск</li>
+			</ul>
 		</div>
 	</div>
 </div></div>
 
 <div class="nextfooter">
-	<div class="module colored  deepest">
-		<ul class="menu menu-line"><li class="level1 item127"><a href="/o-kompanii" class="level1"><span>О компании</span></a></li><li class="level1 item186"><a href="/karta-sajta" class="level1"><span>Карта сайта</span></a></li></ul>		
+	<div class="container">
+		<ul class="list-inline">
+		<li><a href="/o-kompanii"><span>О компании</span></a></li>
+		<li><a href="/karta-sajta"><span>Карта сайта</span></a></li>
+		</ul>		
 	</div>
 
 <!-- Yandex.Metrika informer 
