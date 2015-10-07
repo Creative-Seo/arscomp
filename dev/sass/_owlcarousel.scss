@@ -23,9 +23,9 @@ $dot-margin: 			5px 7px;
 $dot-background:		$color-gray;
 $dot-background-active:	$color-base;
 
-@import "../libs/OwlCarousel2/src/scss/mixins";
-@import "../libs/OwlCarousel2/src/scss/theme";
+@import "../libs/owl.carousel/src/scss/mixins";
+@import "../libs/owl.carousel/src/scss/theme";
 
-@import "../libs/OwlCarousel2/src/scss/owl.animate.scss";
-@import "../libs/OwlCarousel2/src/scss/owl.carousel.scss";
-@import "../libs/OwlCarousel2/src/scss/owl.carousel.scss";
+@import "../libs/owl.carousel/src/scss/owl.animate.scss";
+@import "../libs/owl.carousel/src/scss/owl.carousel.scss";
+@import "../libs/owl.carousel/src/scss/owl.carousel.scss";
