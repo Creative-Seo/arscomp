@@ -14,9 +14,11 @@
 <div class="custom">
 	<p>Территория ОКБ МЭИ<br>Красноказарменная ул. 14 | Корпус 4<br>офис 505</p>
 
-<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> 
-<span class="email cont-info">market@okpars.ru</span> 
-<span class="town cont-info">Россия, Москва</span></address>
+<address class="module-contact">
+<p><span class="fa fa-phone"> 8 800 7000 672</span></p> 
+<p><span class="fa fa-envelope"> market@okpars.ru</span></p> 
+<p><span class="fa fa-info-circle"> Россия, Москва</span></p>
+</address>
 </div>	
 </div>
 </div>
@@ -28,9 +30,9 @@
 		<h2 class="module-title"><span class="color">Офис</span> в Иркутске</h2>	
 <!-- get background image -->
 <div class="custom">
-	<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
-<p><span class="phone cont-info">+7 (3952) 288 890</span></p>
-<p><span class="town cont-info">664000, Россия, г. Иркутск</span></p>
+<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
+<p><span class="fa fa-phone"> +7 (3952) 288 890</span></p>
+<p><span class="fa fa-info-circle"> 664000, Россия, г. Иркутск</span></p>
 </div>		
 </div>
     </div>
@@ -44,7 +46,11 @@
 <div class="custom">
 	<p>Бизнес парк "Техника"<br>Дворянская ул. 27А | корпус 1<br>2 этаж, ОКП "АРС"</p>
 
-<address class="module-contact"><span class="phone cont-info">8 800 7000 672</span> <span class="phone cont-info"> +7 4922 37 99 99 </span> <span class="email cont-info">info@okpars.ru</span> <span class="town cont-info">600001, Россия, г.Владимир.</span></address>
+<address class="module-contact">
+<span class="fa fa-phone"> 8 800 7000 672</span> 
+<p><span class="fa fa-phone"> +7 4922 37 99 99 </span></p> 
+<p><span class="fa fa-envelope"> info@okpars.ru</span></p> 
+<p><span class="fa fa-info-circle"> 600001, Россия, г.Владимир.</span></p></address>
 </div>		
 </div>
 </div>
