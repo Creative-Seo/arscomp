@@ -9,11 +9,11 @@
 ["/uslugi/arenda-spetsavtotransporta","arenda-spec-techniki","Аренда спецавтотехники"]
 ];
 foreach ($partneri as $row) { ?>
-	<div>
-		<img src="/images/okpars.ru/slider/<?php echo $row[1];?>.jpg" alt="<?php echo $row[2];?>" class="slider-img">
+	<div class="slider">
+		<div class="slider-fon"><img src="/images/okpars.ru/slider/<?php echo $row[1];?>.jpg" alt="<?php echo $row[2];?>" class="slider-img"></div>
 		<div class="slider-left">
-			<p class="h2"><?php echo $row[2];?></p>
-			<a href="<?php echo $row[0];?>" class="readon button-color"><span>Подробнее</span></a>
+			<p class="slider-h2"><?php echo $row[2];?></p>
+			<a href="<?php echo $row[0];?>" class="btn-orange"><span>Подробнее</span></a>
 		</div>
 	</div>
 <?php } ?>
