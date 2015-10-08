@@ -13,10 +13,10 @@
 	  <li class="dropdown">
 			<a href="javascript: void(0);" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Услуги <b class="caret"></b></a>
 			<ul class="dropdown-menu">
-			  <li class="dropdown-gr">Инженерные Изыскания</li>
+			  <li class="dropdown-gr dropdown-padding">Инженерные Изыскания</li>
 			  <li><a href="/geodezicheskie-izyskaniya">Геодезические изыскания</a></li>
 			  <li><a href="/geologicheskie-izyskaniya">Геологические изыскания</a></li>
-			  <li class="dropdown-gr">Лаборатории</li>
+			  <li class="dropdown-gr dropdown-padding">Лаборатории</li>
 			  <li><a href="/laboratorii/geologicheskaya-laboratoriya">Геологическая лаборатория</a></li>
 			  <li><a href="/laboratorii/geodezicheskaya-laboratoriya">Геодезическая лаборатория</a></li>
 			  <li><a href="/laboratorii/ekologicheskaya-laboratoriya">Экологическая лаборатория</a></li>
@@ -36,12 +36,12 @@
 	  <li class="dropdown">
 			<a href="javascript: void(0);" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Производство <b class="caret"></b></a>
 			<ul class="dropdown-menu">
-			  <li class="dropdown-gr">Сборный Железобетонный Каркас</li>
+			  <li class="dropdown-gr dropdown-padding">Сборный Железобетонный Каркас</li>
 			  <li><a href="/proizvodstvo/sborno-monolitnyj-karkas">Технология сборно-монолитного 
 		каркаса</a></li>
 			  <li><a href="/proizvodstvo/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa">
 		Преимущества технологии соборно-монолитного каркаса</a></li>
-			  <li class="dropdown-gr">Металлоконструкции</li>
+			  <li class="dropdown-gr dropdown-padding">Металлоконструкции</li>
 			  <li><a href="/proizvodstvo/strelovoe-oborudovanie">Стреловое оборудование</a></li>
 			  <li><a href="/proizvodstvo/mobilnaya-rampa">Мобильная рампа</a></li>
 			  <li><a href="/proizvodstvo/novesnoe-oborudovanie-dlya-motobloka">Навесное оборудование для мотоблоков</a></li>
