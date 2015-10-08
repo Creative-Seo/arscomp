@@ -10,10 +10,15 @@ body {
 	font-size:$font-size-body;
     background-color: #fcfcfc;
     color:#666;
-	ul li {
-		list-style-type: none;
-	}
 }
+a {
+    color: #F56C13;
+    &:hover,&:focus {
+        color: #FF8E1C;
+        text-decoration: none;
+    }
+}
+.no-h1{padding: 20px;}
 .title{
     background: url('/images/bg-h1.png') 500px 0 no-repeat $header-orange;
     margin: 0 0;
