@@ -13,7 +13,7 @@ foreach ($partneri as $row) { ?>
 		<div class="slider-fon"><img src="/images/okpars.ru/slider/<?php echo $row[1];?>.jpg" alt="<?php echo $row[2];?>" class="slider-img"></div>
 		<div class="slider-left">
 			<p class="slider-h2"><?php echo $row[2];?></p>
-			<a href="<?php echo $row[0];?>" class="btn-orange"><span>Подробнее</span></a>
+			<div class="slider-btn"><a href="<?php echo $row[0];?>" class="btn-orange">Подробнее</a></div>
 		</div>
 	</div>
 <?php } ?>

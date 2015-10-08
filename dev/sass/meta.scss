@@ -58,11 +58,14 @@ body {
         position: relative;
         margin: 0;
         padding: 100px 20px;
-        background: rgba(255,255,255,0.8);
-        line-height: 100px;
+        background: rgba(255,255,255,0.7);
     }
     &-h2{
         font-size: 30px;
+    }
+    &-btn{
+        position: absolute;
+        bottom: 50px;
     }
 }
 @media (min-width: 768px) {

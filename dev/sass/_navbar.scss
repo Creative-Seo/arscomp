@@ -11,3 +11,28 @@
 		}
 	}
 }
+.dropdown {
+	&-gr{
+		text-transform: uppercase;
+		border-top: 1px solid #ccc;
+		border-bottom: 1px solid #ccc;
+		padding: 5px 0;
+	}
+	&-padding {
+		padding-left: 20px;
+	}
+}
+.navbar .navbar-nav > li > a{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+@media (min-width: 992px){
+	.navbar-nav{margin-left: 80px;}
+}
+@media (min-width: 1200px){
+	.navbar-nav{margin-left: 120px;}
+	.navbar .navbar-nav > li > a{
+		padding-left: 35px;
+		padding-right: 35px;
+	}
+}
