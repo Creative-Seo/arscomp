@@ -55,6 +55,27 @@ h2,.h2 {
 	padding: 5px;
 }
 /*GALEREYA*/
+/*TABS*/
+.nav-tabs > li > a{padding: 10px 25px;}
+.tab {
+	&-pane{
+		background-color: #fff;
+		position: relative;
+		padding: 10px;
+		border: 1px solid #ccc;
+		width: 100%;
+		overflow: hidden;
+	}
+	&-fon{
+		position: absolute;
+		bottom: 0;
+		right: -20px;
+	}
+	&-text{
+		width: 70%;
+	}
+}
+/*TABS*/
 /*FOOTER*/
 .house {width: 100%; height:auto; max-height: 200px;}
 .prevfooter{
