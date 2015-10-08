@@ -1,6 +1,5 @@
 <div class="container">
 
-
 <p>Хотите сделать процесс сельскохозяйственных работ максимально удобным и результативным? Первый шаг к этому — приобретение мотоблока.&nbsp;</p>
 
 <p>Комплект навесного оборудования для мотоблоков позволит вам использовать технику в течение всего года, выполняя полный спектр аграрных работ. Использование навесного оборудования позволяет в полной мере задействовать возможности мотоблока, превращая его в полноценный аналог сельскохозяйственного мини-трактора.&nbsp;</p>
@@ -64,10 +63,10 @@
     <div style="display: none; height: 0px;">
             <ul class="nav-child unstyled small level2">
         <li class="level2 item195">
-    <a href="/proizvodstvo/zhelezobetonnyj-uzel/sborno-monolitnyj-karkas" class="level2"><span>ТЕХНОЛОГИЯ</span></a>
+    <a href="/proizvodstvo/sborno-monolitnyj-karkas" class="level2"><span>ТЕХНОЛОГИЯ</span></a>
         </li>
         <li class="level2 item237">
-    <a href="/proizvodstvo/zhelezobetonnyj-uzel/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa" class="level2"><span>ПРЕИМУЩЕСТВА</span></a>
+    <a href="/proizvodstvo/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa" class="level2"><span>ПРЕИМУЩЕСТВА</span></a>
         </li>
             </ul>
     </div>

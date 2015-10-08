@@ -45,13 +45,13 @@
 	<a href="/proizvodstvo/metallokonstruktsii" class="level1 parent active"><span>Металлоконструкции</span></a>
 	        <ul class="nav-child unstyled small level2">
 	    <li class="level2 item198">
-	<a href="/proizvodstvo/metallokonstruktsii/strelovoe-oborudovanie" class="level2"><span>Стреловое оборудование</span></a>
+	<a href="/proizvodstvo/strelovoe-oborudovanie" class="level2"><span>Стреловое оборудование</span></a>
 	    </li>
 	    <li class="level2 item199">
-	<a href="/proizvodstvo/metallokonstruktsii/mobilnaya-rampa" class="level2"><span>Мобильная рампа</span></a>
+	<a href="/proizvodstvo/mobilnaya-rampa" class="level2"><span>Мобильная рампа</span></a>
 	    </li>
 	    <li class="level2 item200">
-	<a href="/proizvodstvo/metallokonstruktsii/novesnoe-oborudovanie-dlya-motobloka" class="level2"><span>Навесное оборудование для мотоблоков</span></a>
+	<a href="/proizvodstvo/novesnoe-oborudovanie-dlya-motobloka" class="level2"><span>Навесное оборудование для мотоблоков</span></a>
 	    </li>
 	        </ul>
 	    </li>
@@ -66,10 +66,10 @@
     <div style="display: none; height: 0px;">
             <ul class="nav-child unstyled small level2">
     <li class="level2 item195">
-<a href="/proizvodstvo/zhelezobetonnyj-uzel/sborno-monolitnyj-karkas" class="level2"><span>ТЕХНОЛОГИЯ</span></a>
+<a href="/proizvodstvo/sborno-monolitnyj-karkas" class="level2"><span>ТЕХНОЛОГИЯ</span></a>
         </li>
         <li class="level2 item237">
-<a href="/proizvodstvo/zhelezobetonnyj-uzel/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa" class="level2"><span>ПРЕИМУЩЕСТВА</span></a>
+<a href="/proizvodstvo/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa" class="level2"><span>ПРЕИМУЩЕСТВА</span></a>
         </li>
 </ul>
     </div>

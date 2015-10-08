@@ -12,7 +12,7 @@
   	<div class="tab-pane active" id="tab1">
   		<div class="tab-fon"><img class="hidden-img size-auto" src="/images/okpars.ru/tabs/triangle.png" alt="image"></div>
  		<div class="tab-text">
-			<h3 class="tab-title"><strong>Особое Конструкторское Подразделение </strong>"АРС"</h3>
+			<p class="tab-title"><strong>Особое Конструкторское Подразделение </strong>"АРС"</p>
 			<p class="hidden-text">Полный спектр услуг по согласованию, сопровождению проектов строительства, разработку обоснований инвестиций, рабочей документации для нового строительства, реконструкции, капитального ремонта, ландшафтной архитектуры, градостроительного проектирования...</p>
 			<p><br><a class="button" href="/o-kompanii">Читать далее</a></p>
 		</div>
@@ -20,7 +20,7 @@
   	<div class="tab-pane" id="tab2">
 		<div class="tab-fon"><img class="hidden-img size-auto" src="/images/okpars.ru/tabs/niche.png" alt="image"></div>
 		<div class="tab-text">
-			<h3 class="tab-title"><strong>Штат</strong>&nbsp;сотрудников компании</h3>
+			<p class="tab-title"><strong>Штат</strong>&nbsp;сотрудников компании</p>
 			<p class="hidden-text">В настоящее время в компании работает более 400 человек, 200 из них - это только проектный отдел. Все сотрудники компании высококвалифицированные специалисты с колоссальным опытом работы, которые смогут в кратчайшие сроки разработать любую проектно-техническую документацию, а так же рассмотреть готовые проектные решения и дать заключения по их оптимизации.</p>
 			<p><br><a class="button" href="/o-kompanii">Читать далее</a></p>
 		</div>
@@ -28,7 +28,7 @@
 	<div class="tab-pane" id="tab3">
 		<div class="tab-fon"><img class="hidden-img size-auto" src="/images/okpars.ru/tabs/launch.png" alt="image"></div>
 		<div class="tab-text">
-			<h3 class="tab-title"><strong>Конкурентные&nbsp;</strong>Преимущества</h3>
+			<p class="tab-title"><strong>Конкурентные&nbsp;</strong>Преимущества</p>
 			<p class="hidden-text">Соблюдение сроков исполнения заказа,ответственный подход к большим и малым объектам, собственные инженерные лаборатории, современные компьютерные системы и новейшее программное обеспечение,собственный парк строительной и специализированной техники</p>
 			<p><br><a class="button" href="/o-kompanii">Читать далее</a></p>
 		</div>

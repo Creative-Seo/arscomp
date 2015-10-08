@@ -1,12 +1,12 @@
 <div id="owl-slider" class="owl-carousel">
 <?php $partneri=[
-["/uslugi/arkhitekturno-stroitelnoe-proektirovanie","arch-berau","Архитектурно-Строительное Проектирование"],
-["/uslugi/inzhenernye-izyskaniya/geologicheskie-izyskaniya","geologich-iziska1","Геологические изыскания"],
-["/uslugi/inzhenernye-izyskaniya/geologicheskie-izyskaniya","geodezich-iziska1","Геодезические изыскания"],
-["/uslugi/ctroitelno-montazhnye-raboty","stroitelstvo","Строительство"],
-["/uslugi/proektirovanie-ob-ektov-linejnogo-sooruzheniya","proektirovanie-dorog1","Проектирование дорог"],
+["/arkhitekturno-stroitelnoe-proektirovanie","arch-berau","Архитектурно-Строительное Проектирование"],
+["/geologicheskie-izyskaniya","geologich-iziska1","Геологические изыскания"],
+["/geologicheskie-izyskaniya","geodezich-iziska1","Геодезические изыскания"],
+["/ctroitelno-montazhnye-raboty","stroitelstvo","Строительство"],
+["/proektirovanie-ob-ektov-linejnogo-sooruzheniya","proektirovanie-dorog1","Проектирование дорог"],
 ["/proizvodstvo/metallokonstruktsii","metallokonstrukcii","Металлоконструкции"],
-["/uslugi/arenda-spetsavtotransporta","arenda-spec-techniki","Аренда спецавтотехники"]
+["/arenda-spetsavtotransporta","arenda-spec-techniki","Аренда спецавтотехники"]
 ];
 foreach ($partneri as $row) { ?>
 	<div class="slider">
