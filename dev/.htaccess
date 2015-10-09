@@ -1,18 +1,20 @@
 Options All -ExecCGI -Indexes -Includes +FollowSymLinks
-  
+
+DirectorySlash Off
+
 RewriteEngine On
 RewriteBase /
-    RewriteCond %{HTTP_HOST} ^www\.(.*)/$
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_URI} ^(.+)/$
-    RewriteRule ^(.*)(/)$ http://%1/$1 [L,R=301]
 
     RewriteCond %{HTTP_HOST} ^www\.(.*)$
     RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
 
-    RewriteCond %{HTTP_HOST} (.*)
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_URI} !/$
+    RewriteRule ^(.*)$ $1/index.php
+
+    RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_URI} /$
-    RewriteRule ^(.*)/$ $1 [R=301,L]
+    RewriteRule ^(.*)/$ $1 [L,R=301]
 
     RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
     RewriteRule ^(.*)/index\.php$ $1 [R=301,L]
@@ -52,7 +54,6 @@ Redirect 301 /novosti/19-yuteks /novosti/yuteks
 Redirect 301 /novosti/18-novyj-mikrorajon-g-vladimir /novosti/novyj-mikrorajon-g-vladimir
 Redirect 301 /novosti/17-tsekh-po-proizvodstvu-snekov /novosti/tsekh-po-proizvodstvu-snekov
 Redirect 301 /novosti/16-novyj-mikrorajon-g-murom /novosti/novyj-mikrorajon-g-murom
-
 
 <IfModule mod_setenvif.c>
     SetEnv TZ Europe/Moscow

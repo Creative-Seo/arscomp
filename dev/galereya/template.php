@@ -1,4 +1,6 @@
-<?php include($root.'blocks/meta.php');
+<?php
+$dir = $_SERVER['REQUEST_URI'];
+include($root.'blocks/meta.php');
 include($root.'blocks/header.php');
 include($root.'blocks/navbar.php');
 include($root.'blocks/h1.php');?>
@@ -12,8 +14,8 @@ if (false !== $images) {
 	$x=0;$y=[false,false,false,false];
 	foreach($imgarray as $row) {
 		$col[$x] =$col[$x].'<div class="col-xs-12 intro">
-<a class="fancybox-thumb" rel="gallery1" href="'.$url.htmlspecialchars(urlencode($row)).'" title="">
-	<img src="'.$url.htmlspecialchars(urlencode($row)).'" alt="'.$alt.'" class="img-responsive">
+<a class="fancybox-thumb" rel="gallery1" href="'.$dir.'/'.$url.htmlspecialchars(urlencode($row)).'" title="">
+	<img src="'.$dir.'/'.$url.htmlspecialchars(urlencode($row)).'" alt="'.$alt.'" class="img-responsive">
 </a></div>' ;
 		list($width_l, $height_l, $type_l, $attr_l) = getimagesize($url.$row);
 		if ($height_l/$width_l>1.4) {$y[$x]=true;}
