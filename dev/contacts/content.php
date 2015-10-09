@@ -1,7 +1,7 @@
 <div class="maps">
 	<div id="map" class="maps-block"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=glG3ZPDVhHLtDLxiAp-ycBX_4ZI4TBNt&lang=ru_RU&sourceType=constructor"></script></div>
 </div>
-
+<?php echo $_SERVER['REQUEST_URI'];?>
 <div class="container">
 	<div class="row">
 		<div class="col-sm-4">
