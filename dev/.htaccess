@@ -8,7 +8,47 @@ RewriteBase /
     RewriteCond %{REQUEST_URI} ^(.+)/$
     RewriteRule ^(.+)/$ /$1 [R=301,L]
 
-Redirect 301 /dizayn-proekty/dizayn-detskiy-komnaty/ /dizayn-proekty/detskaya/
+    RewriteCond %{HTTP_HOST} ^khrapovitsky.ru
+    RewriteRule (.*) http://www.khrapovitsky.ru/$1 [R=301,L]
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+    RewriteRule ^index\.php$ http://www.khrapovitsky.ru/ [R=301,L]
+
+Redirect 301 /uslugi/inzhenernye-izyskaniya/geodezicheskie-izyskaniya /geodezicheskie-izyskaniya
+Redirect 301 /uslugi/inzhenernye-izyskaniya/geologicheskie-izyskaniya /geologicheskie-izyskaniya
+Redirect 301 /uslugi/laboratorii/geologicheskaya-laboratoriya /laboratorii/geologicheskaya-laboratoriya
+Redirect 301 /uslugi/laboratorii/geodezicheskaya-laboratoriya /laboratorii/geodezicheskaya-laboratoriya
+Redirect 301 /uslugi/laboratorii/ekologicheskaya-laboratoriya /laboratorii/ekologicheskaya-laboratoriya
+Redirect 301 /uslugi/laboratorii/elektrotekhnicheskaya-laboratoriya /laboratorii/elektrotekhnicheskaya-laboratoriya
+Redirect 301 /uslugi/laboratorii/radiotekhnicheskaya-laboratoriya /laboratorii/radiotekhnicheskaya-laboratoriya
+Redirect 301 /uslugi/laboratorii/laboratoriya-nerazrushayushchego-kontrolya /laboratorii/laboratoriya-nerazrushayushchego-kontrolya
+Redirect 301 /uslugi/arkhitekturno-stroitelnoe-proektirovanie /arkhitekturno-stroitelnoe-proektirovanie
+Redirect 301 /uslugi/proektirovanie-ob-ektov-linejnogo-sooruzheniya /proektirovanie-ob-ektov-linejnogo-sooruzheniya
+Redirect 301 /uslugi/ctroitelno-montazhnye-raboty /ctroitelno-montazhnye-raboty
+Redirect 301 /uslugi/stroitelnyj-nadzor /stroitelnyj-nadzor
+Redirect 301 /uslugi/ekspertiza-promyshlennoj-bezopasnosti /ekspertiza-promyshlennoj-bezopasnosti
+Redirect 301 /uslugi/energoaudit /energoaudit
+Redirect 301 /uslugi/pozharnaya-bezopasnost /pozharnaya-bezopasnost
+Redirect 301 /uslugi/avtonomnaya-gazafikatsiya /avtonomnaya-gazafikatsiya
+Redirect 301 /uslugi/arenda-spetsavtotransporta /arenda-spetsavtotransporta
+
+Redirect 301 /proizvodstvo/zhelezobetonnyj-uzel/sborno-monolitnyj-karkas /proizvodstvo/sborno-monolitnyj-karkas
+Redirect 301 /proizvodstvo/zhelezobetonnyj-uzel/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa /proizvodstvo/preimushchestva-tekhnologii-soborno-monolitnogo-karkasa
+Redirect 301 /proizvodstvo/metallokonstruktsii/strelovoe-oborudovanie /proizvodstvo/strelovoe-oborudovanie
+Redirect 301 /proizvodstvo/metallokonstruktsii/mobilnaya-rampa /proizvodstvo/mobilnaya-rampa
+Redirect 301 /proizvodstvo/metallokonstruktsii/novesnoe-oborudovanie-dlya-motobloka /proizvodstvo/novesnoe-oborudovanie-dlya-motobloka
+
+Redirect 301 /novosti/66-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk /novosti/natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk
+Redirect 301 /novosti/67-natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2 /novosti/natsionalnyj-geliogeofizicheskij-kompleks-rossijskoj-akademii-nauk-2
+Redirect 301 /novosti/63-stroitelstvo-agrotekhnicheskogo-kompleksa /novosti/stroitelstvo-agrotekhnicheskogo-kompleksa
+Redirect 301 /novosti/65-nagrada-ot-ministra-selskogo-khozyajstva-rf /novosti/nagrada-ot-ministra-selskogo-khozyajstva-rf
+Redirect 301 /novosti/62-proektirovanie-farmatsevticheskogo-kompleksa-g-volginsk /novosti/proektirovanie-farmatsevticheskogo-kompleksa-g-volginsk
+Redirect 301 /novosti/60-skladskoj-kompleks-yuteks-ru /novosti/skladskoj-kompleks-yuteks-ru
+Redirect 301 /novosti/59-nagrada-za-1-mesto /novosti/nagrada-za-1-mesto
+Redirect 301 /novosti/19-yuteks /novosti/yuteks
+Redirect 301 /novosti/18-novyj-mikrorajon-g-vladimir /novosti/novyj-mikrorajon-g-vladimir
+Redirect 301 /novosti/17-tsekh-po-proizvodstvu-snekov /novosti/tsekh-po-proizvodstvu-snekov
+Redirect 301 /novosti/16-novyj-mikrorajon-g-murom /novosti/novyj-mikrorajon-g-murom
+
 
 <IfModule mod_setenvif.c>
     SetEnv TZ Europe/Moscow
