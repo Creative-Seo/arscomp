@@ -2,16 +2,20 @@ Options All -ExecCGI -Indexes -Includes +FollowSymLinks
   
 RewriteEngine On
 RewriteBase /
-    RewriteCond %{HTTP_HOST} ^www\.(.*)$
-    RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+    RewriteCond %{HTTP_HOST} ^www\.(.*)/$
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_URI} ^(.+)/$
-    RewriteRule ^(.+)/$ /$1 [R=301,L]
+    RewriteRule ^(.*)(/)$ http://%1/$1 [L,R=301]
 
-    RewriteCond %{HTTP_HOST} ^khrapovitsky.ru
-    RewriteRule (.*) http://www.khrapovitsky.ru/$1 [R=301,L]
+    RewriteCond %{HTTP_HOST} ^www\.(.*)$
+    RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+
+    RewriteCond %{HTTP_HOST} (.*)
+    RewriteCond %{REQUEST_URI} /$
+    RewriteRule ^(.*)/$ $1 [R=301,L]
+
     RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
-    RewriteRule ^index\.php$ http://www.khrapovitsky.ru/ [R=301,L]
+    RewriteRule ^(.*)/index\.php$ $1 [R=301,L]
 
 Redirect 301 /uslugi/inzhenernye-izyskaniya/geodezicheskie-izyskaniya /geodezicheskie-izyskaniya
 Redirect 301 /uslugi/inzhenernye-izyskaniya/geologicheskie-izyskaniya /geologicheskie-izyskaniya
