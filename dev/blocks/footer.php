@@ -1,42 +1,42 @@
 <div class="prevfooter">
 	<div class="container-fluid"><div class="row">
 		<div class="col-sm-8"><p>Здесь вы можете заказать любые услуги, предоставляемые компанией ООО ОКП "АРС" онлайн</p></div>
-		<div class="col-sm-4 text-right"><p><a class="btn-orange" href="javascript: void(0);" data-targer="modal">ЗАКАЗАТЬ ОНЛАЙН</a></p></div>
+		<div class="col-sm-4 text-right"><p><a class="btn-orange" href="javascript:void(0);" data-toggle="modal" data-target="#modal-zakaz">ЗАКАЗАТЬ ОНЛАЙН</a></p></div>
 	</div></div>
 </div>
 
-<div class="footer"><div class="container">
+<div class="footer"><div class="container" itemscope itemtype="http://schema.org/Organization">
 	<div class="row">
 		<div class="col-sm-6 col-md-3">
 			<p class="footer-h2">Время Работы офиса</p>
-			<p><i class="fa fa-clock-o"></i>Офис компании ОКП "АРС" работает с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
+			<p><i class="fa fa-clock-o"></i>Офис компании <span itemprop="name">ОКП "АРС" работает</span> с понедельника по пятницу с 09:00 до 18:00. Суббота и Восресенье - выходные дни</p>
 			<a href="/contacts">Подробнее</a>
 		</div>
-		<div class="col-sm-6 col-md-3">
-			<p class="footer-h2">Офис во Владимире</p>	
-			<p>Бизнес парк "Техника" Дворянская ул. 27А | Корпус 1 этаж 2й, ОКП "АРС"</p>
+		<div class="col-sm-6 col-md-3" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+			<p class="footer-h2" >Офис во Владимире</p>	
+			<p>Бизнес парк "Техника" <span itemprop="streetAddress">Дворянская ул. 27А</span> | Корпус 1 этаж 2й, ОКП "АРС"</p>
 			<ul class="list-unstyled">
-				<li><i class="fa fa-phone"></i>8 800 7000 672</li> 
-				<li><i class="fa fa-phone"></i>+7 4922 37 99 99</li> 
-				<li><i class="fa fa fa-envelope-o"></i>info@okpars.ru</li> 
-				<li><i class="fa fa-home"></i>600001, Россия, г.Владимир.</li>
+				<li><i class="fa fa-phone"></i><span itemprop="telephone">8 800 7000 672</span></li> 
+				<li><i class="fa fa-phone"></i><span itemprop="telephone">+7 4922 37 99 99</span></li> 
+				<li><i class="fa fa fa-envelope-o"></i><span itemprop="email">info@okpars.ru</span></li> 
+				<li><i class="fa fa-home"></i><span itemprop="postalCode">600001</span>, Россия, <span itemprop="addressLocality">г.Владимир</span>.</li>
 			</ul>
 		</div>
-		<div class="col-sm-6 col-md-3">
+		<div class="col-sm-6 col-md-3" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 			<p class="footer-h2">Офис во Москве</p>	
-			<p>Территория ОКБ МЭИ Красноказарменная ул. 14 | Корпус 4 офис 505</p>
+			<p>Территория ОКБ МЭИ <span itemprop="streetAddress">Красноказарменная ул. 14</span> | Корпус 4 офис 505</p>
 			<ul class="list-unstyled">
-				<li><i class="fa fa-phone"></i>8 800 7000 672</li> 
-				<li><i class="fa fa-envelope-o"></i>market@okpars.ru</li> 
-				<li><i class="fa fa-home"></i>Россия, Москва</li>
+				<li><i class="fa fa-phone"></i><span itemprop="telephone">8 800 7000 672</span></li> 
+				<li><i class="fa fa-envelope-o"></i><span itemprop="email">market@okpars.ru</span></li> 
+				<li><i class="fa fa-home"></i><span itemprop="postalCode">111250</span>Россия, <span itemprop="addressLocality">Москва</span></li>
 			</ul>
 		</div>
-		<div class="col-sm-6 col-md-3">
+		<div class="col-sm-6 col-md-3" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 			<p class="footer-h2">Офис во Иркутске</p>	
-			<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
+			<p>г.Иркутск <span itemprop="streetAddress">ул. Декабрьских событий д. 57</span> офис 505</p>
 			<ul class="list-unstyled">
-				<li><i class="fa fa-phone"></i>+7 (3952) 288 890</li> 
-				<li><i class="fa fa-home"></i>664000, Россия, г. Иркутск</li>
+				<li><i class="fa fa-phone"></i><span itemprop="telephone">+7 (3952) 288 890</span></li> 
+				<li><i class="fa fa-home"></i><span itemprop="postalCode">664000</span>, Россия, <span itemprop="addressLocality">г. Иркутск</span></li>
 			</ul>
 		</div>
 	</div>
@@ -47,6 +47,7 @@
 		<ul class="list-inline">
 		<li><a href="/o-kompanii"><span>О компании</span></a></li>
 		<li><a href="/karta-sajta"><span>Карта сайта</span></a></li>
+		<li><a href="http://creative-seo.ru"><span>Продвижение сайта</span></a></li>
 		</ul>		
 	</div>
 

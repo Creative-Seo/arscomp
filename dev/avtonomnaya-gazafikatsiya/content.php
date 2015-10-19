@@ -22,7 +22,7 @@
     <li>Высокое качество работы и адекватные цены.</li>
     <li>Помощь с регистрацией и последующей эксплуатацией системы, стабильное сервисное обслуживание.&nbsp;</li>
         </ul>
-<p><img src="/images/matc/gaz/avtonomka-gaz-1-okpars.ru.jpg" alt="" width="430" height="288" class="size-auto"><img src="/images/matc/gaz/avtonomka-gaz-3-okpars.ru.jpg" alt="" width="430" height="310" class="size-auto"></p>
+<p><img src="/images/matc/gaz/avtonomka-gaz-1-okpars.ru.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="430" height="288" class="size-auto"><img src="/images/matc/gaz/avtonomka-gaz-3-okpars.ru.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="430" height="310" class="size-auto"></p>
 </div>
 
 

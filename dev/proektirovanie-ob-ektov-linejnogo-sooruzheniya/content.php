@@ -5,7 +5,7 @@
 <div class="widget-content">
 <div id="widget-e0322057-1da0-1788-3dbb-aef670f86a62" class="widget widget-text">
 <div class="widget-content">
-<p><img src="/images/matc/road.jpg" alt="" width="941" height="113" class="size-auto"></p>
+<p><img src="/images/matc/road.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="941" height="113" class="size-auto"></p>
 <p>Проектирование объектов&nbsp;линейных сооружений — комплекс инженерных работ, связанных с проектированием различных линейных объектов (трасса, автодороги, линии связи, трубопровод, линии электропередач и др). Проектирование линейных объектов — основополагающий фактор в вопросе оформления объектов недвижимого имущества.&nbsp;</p>
 <p>ООО Особое Конструкторское Подразделение «АРС» предлагает Вам комплекс услуг по проектированию объектов линейного сооружения.&nbsp;</p>
 <p>Основные этапы работ:</p>
@@ -42,7 +42,7 @@
             </div>
 <div id="widget-b6f2d1fb-a203-d70d-5418-24902f3f28be" class="widget widget-text">
 <div class="widget-content">
-<p><img src="/images/matc/roadfakel.jpg" alt="" width="944" height="142" class="size-auto"></p>
+<p><img src="/images/matc/roadfakel.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="944" height="142" class="size-auto"></p>
 </div>
     </div> 		
 </div>

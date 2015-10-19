@@ -15,7 +15,7 @@ if (false !== $images) {
 	foreach($imgarray as $row) {
 		$col[$x] =$col[$x].'<div class="col-xs-12 intro">
 <a class="fancybox-thumb" rel="gallery1" href="'.$dir.'/'.$url.htmlspecialchars(urlencode($row)).'" title="">
-	<img src="'.$dir.'/'.$url.htmlspecialchars(urlencode($row)).'" alt="'.$alt.'" class="img-responsive">
+	<img src="'.$dir.'/'.$url.htmlspecialchars(urlencode($row)).'" alt="'.$alt.'" title="'.$alt.'" class="img-responsive">
 </a></div>' ;
 		list($width_l, $height_l, $type_l, $attr_l) = getimagesize($url.$row);
 		if ($height_l/$width_l>1.4) {$y[$x]=true;}

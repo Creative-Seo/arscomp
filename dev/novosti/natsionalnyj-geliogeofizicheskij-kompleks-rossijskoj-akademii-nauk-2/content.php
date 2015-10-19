@@ -1,4 +1,4 @@
-<p><img style="margin-right: 10px; float: left;" src="/images/okpars.ru/News/newWHILE/be50c2e2f6bb525754b8a789d30f2fdd.jpg" alt="be50c2e2f6bb525754b8a789d30f2fdd" width="500" height="239" class="size-auto"></p>
+<p><img style="margin-right: 10px; float: left;" src="/images/okpars.ru/News/newWHILE/be50c2e2f6bb525754b8a789d30f2fdd.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="500" height="239" class="size-auto"></p>
 <div>В 2015 году компанией ООО ОКП "АРС" разработан проект&nbsp; производственного корпуса площадью 10 тыс. кв.м. для ООО Фирмы "Цикл".&nbsp;</div>
 <div>ООО Фирма "Цикл"- известный российский производитель товаров народного потребления из пластмассы с 20-ти летней историей. Компания является разработчиком&nbsp; и создателем садовых опрыскивателей под торговой маркой "ЖУК".&nbsp;</div>
 <div>производство находится в городе Коврове.</div>

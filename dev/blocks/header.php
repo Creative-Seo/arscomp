@@ -6,7 +6,7 @@
 </div>
 <div class="header-logo">
 	<div class="container">
-		<a href="/"><img src="/images/okpars.ru/logo/logoArs.png" class="header-img" height="100px" width="124px" alt="Особое Конструкторское Подразделение"></a>
+		<a href="/"><img src="/images/okpars.ru/logo/logoArs.png" class="header-img" height="100px" width="124px" alt="Особое Конструкторское Подразделение" title="Особое Конструкторское Подразделени"></a>
 		<span class="header-text">Особое Конструкторское Подразделение</span>
 	</div>
 </div>

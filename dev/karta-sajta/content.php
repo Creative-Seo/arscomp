@@ -31,7 +31,7 @@
         <li><a href="/pozharnaya-bezopasnost" title="ПОЖАРНАЯ БЕЗОПАСНОСТЬ">ПОЖАРНАЯ БЕЗОПАСНОСТЬ</a></li>
         <li><a href="/avtonomnaya-gazafikatsiya" title="АВТОНОМНАЯ ГАЗИФИКАЦИЯ">АВТОНОМНАЯ ГАЗИФИКАЦИЯ</a></li>
         <li><a href="/arenda-spetsavtotransporta" title="АРЕНДА СПЕЦАВТОТРАНСПОРТА">АРЕНДА СПЕЦАВТОТРАНСПОРТА</a></li>
-        <li><a href="http://proburimsya.ru/" title="БУРЕНИЕ СКВАЖИН" target="_blank" rel="nofollow">БУРЕНИЕ СКВАЖИН&nbsp;<img src="/images/img_blue.gif" alt="Ссылка открывается в новом окне " title="Ссылка открывается в новом окне " border="0" class="size-auto"></a></li>
+        <li><a href="http://proburimsya.ru/" title="БУРЕНИЕ СКВАЖИН" target="_blank" rel="nofollow">БУРЕНИЕ СКВАЖИН&nbsp;<img src="/images/img_blue.gif" alt="Ссылка открывается в новом окне" title="Ссылка открывается в новом окне" border="0" class="size-auto"></a></li>
     </ul>
     <ul class="list-unstyled">
         <li><span>Производство</span></li>
