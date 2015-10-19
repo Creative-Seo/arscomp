@@ -1,7 +1,7 @@
 <div class="container">
 		
-<p><img style="margin: 5px; float: right;" src="/images/matc/metakll/kran-2.jpg" alt="kran-2" width="200" height="150" class="size-auto">
-<img style="margin: 5px; float: right;" src="/images/matc/metakll/kran-3.jpg" alt="kran-3" width="200" height="150" class="size-auto">ООО Особое Конструкторское Подразделение «АРС» принимает заявки на производство стрелового оборудования для моделей любых кранов и их отдельных элементов.</p>
+<p><img style="margin: 5px; float: right;" src="/images/matc/metakll/kran-2.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="200" height="150" class="size-auto">
+<img style="margin: 5px; float: right;" src="/images/matc/metakll/kran-3.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="200" height="150" class="size-auto">ООО Особое Конструкторское Подразделение «АРС» принимает заявки на производство стрелового оборудования для моделей любых кранов и их отдельных элементов.</p>
 <p>Мы предоставляем Вам возможность заказа как стрелы для крана КС-5363 в сборе, так и отдельных необходимых элементов стрелового оборудования.</p>
 <p>Краны серии КС-5363 были разработаны в 1970 году в Одессе и выпускались с начала 70-х до середины 90-х гг.&nbsp;</p>
 <p>Предназначение кранов КС-5363 — погрузочно-разгрузочные и монтажные работы с массой грузов до 25-36т. Благодаря кинематической схеме эти модели кранов способны выполнять две различные операции.&nbsp;</p>
@@ -12,7 +12,7 @@
 <p>На стрелу может быть монтирован управляемый или неуправляемый гусек-удлинитель. При работе с башенно-стреловым оборудованием на башню устанавливается управляемый гусек длиной от 10 до 20 метров (конечная длина определяется базовой длиной башни).</p>
 <p>Модель крана КС-5363Б имеет в комплекте гусек-удлинитель и двукратную запасовку на грузовом полиспасте, обеспечивающую беспроблемное горизонтальное передвижение грузов.&nbsp;</p>
 <p>Специалисты ООО ОКП «АРС» также проводят монтажные работы стрелового оборудования.&nbsp;</p>
-<p>Звоните нам по телефону +7(962) 086-59-50 или закажите обратный звонок <a class="newsletter-btn button-color jcepopup noicon" href="http://okpars.ru/index.php?option=com_chronoforms&amp;chronoform=Call" target="_blank">ЗАКАЗАТЬ ОНЛАЙН</a>, и мы ответим на интересующие вас вопросы.&nbsp;</p> 	
+<p>Звоните нам по телефону +7(962) 086-59-50 или закажите обратный звонок <a class="newsletter-btn button-color jcepopup noicon" href="javascript:void(0);" data-toggle="modal" data-target="#modal-zakaz">ЗАКАЗАТЬ ОНЛАЙН</a>, и мы ответим на интересующие вас вопросы.&nbsp;</p> 	
 
 <div class="row intro">
 <?php $url='images/matc/strel/';
@@ -23,7 +23,7 @@ if (false !== $images) {
 	foreach($imgarray as $row) {
 		$col[$x] =$col[$x].'<div class="col-xs-12 intro">
 <a class="fancybox-thumb" rel="gallery1" href="/'.$url.htmlspecialchars(urlencode($row)).'" title="">
-	<img src="/'.$url.htmlspecialchars(urlencode($row)).'" alt="'.$alt.'" class="img-responsive">
+	<img src="/'.$url.htmlspecialchars(urlencode($row)).'" alt="'.$h1.'" title="'.$h1.'" class="img-responsive">
 </a></div>' ;
 		list($width_l, $height_l, $type_l, $attr_l) = getimagesize($root.$url.$row);
 		if ($height_l/$width_l>1.4) {$y[$x]=true;}

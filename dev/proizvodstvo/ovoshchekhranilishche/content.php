@@ -4,7 +4,7 @@
 <h2 style="text-align: center;">МЫ ПОМОЖЕМ ВАМ СОХРАНИТЬ ТО, ЧТО ВЫ С ТАКИМ ТРУДОМ ВЫРАСТИЛИ.</h2>
 <p style="text-align: center;">Официальным дистрибьютером сельскозяйственного направления ООО ОКП "АРС" является компания <a href="http://agro-sale.com/" rel="nofollow" target="_blank">ООО "АГРО-СЭЙЛ"&nbsp;</a>&nbsp;</p>
 <p style="text-align: center;">Все вопросы по реализации овощехранилищ и фруктохранилищ будут перенаправлены нашему официальному партнёру.</p>
-<p><a href="http://agro-sale.com/" target="_parent"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/okpars.ru/logo/logo-agro-sale.png" alt="logo-agro-sale" width="307" height="96" class="size-auto"></a></p>
+<p><a href="http://agro-sale.com/" target="_parent"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/okpars.ru/logo/logo-agro-sale.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="307" height="96" class="size-auto"></a></p>
 
 <table style="height: 821px; width: 750px; border: 0px solid #ffffff;" frame="void" rules="none" align="center">
 <tbody>
@@ -14,7 +14,7 @@
 </td>
 </tr>
 <tr>
-<td style="margin-left: 90px;"><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/1.png" alt="" width="100" height="94" class="size-auto"></a>Все работы - от проектирования до пуска и наладки оборудования - выполняются командой опытных профессионалов с постоянным контролем качества. В срок сдачи Вы получаете полностью готовое к эксплуатации овощехранилище.</td>
+<td style="margin-left: 90px;"><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/1.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="100" height="94" class="size-auto"></a>Все работы - от проектирования до пуска и наладки оборудования - выполняются командой опытных профессионалов с постоянным контролем качества. В срок сдачи Вы получаете полностью готовое к эксплуатации овощехранилище.</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -22,7 +22,7 @@
 </td>
 </tr>
 <tr>
-<td><br><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/2.png" alt="" width="100" height="74" class="size-auto"></a>Собственное производство металлоконструкций с пониженной м<br>еталлоемкостью &nbsp;и мобильные заводы железобетонных изделий обеспечивают европейское качество, надёжность и сжатые сроки возведения овощехранилища.</td>
+<td><br><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/2.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="100" height="74" class="size-auto"></a>Собственное производство металлоконструкций с пониженной м<br>еталлоемкостью &nbsp;и мобильные заводы железобетонных изделий обеспечивают европейское качество, надёжность и сжатые сроки возведения овощехранилища.</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -30,7 +30,7 @@
 </td>
 </tr>
 <tr>
-<td><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/3.png" alt="" width="100" height="97" class="size-auto"></a>Оснащение овощехранилищ современными системами создания и поддержания климата, линиями обработки и фасовки продукции. Поставляемое оборудование доказало свою надёжность и эффективность как на европейских, так и российских предприятиях.</td>
+<td><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/3.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="100" height="97" class="size-auto"></a>Оснащение овощехранилищ современными системами создания и поддержания климата, линиями обработки и фасовки продукции. Поставляемое оборудование доказало свою надёжность и эффективность как на европейских, так и российских предприятиях.</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -38,7 +38,7 @@
 </td>
 </tr>
 <tr>
-<td><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/4.png" alt="" width="100" height="94" class="size-auto"></a>Овощехранилище - это в первую очередь бизнес-проект. Концепции, разработанные компаниями«АРС» и <a href="http://agro-sale.com/" target="_blank">«АгроСэйл»</a>, позволяют получать от овощехранилищ максимальную экономическую эффективность.</td>
+<td><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/ovoshexranil/4.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="100" height="94" class="size-auto"></a>Овощехранилище - это в первую очередь бизнес-проект. Концепции, разработанные компаниями«АРС» и <a href="http://agro-sale.com/" target="_blank">«АгроСэйл»</a>, позволяют получать от овощехранилищ максимальную экономическую эффективность.</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -46,7 +46,7 @@
 </td>
 </tr>
 <tr>
-<td><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/okpars.ru/logo/logo-agro-sale.png" alt="logo-agro-sale" width="167" height="52" class="size-auto"></a>Комплектация овощехранилищ специально разработанным не имеющим аналогов программным обеспечением «AGROsale» по учёту хранения и переработки сельскохозяйственной продукции, а так же управлению логистическими потоками.</td>
+<td><a href="http://agro-sale.com/" target="_blank"><img style="margin-right: 40px; float: left;" src="/images/okpars.ru/logo/logo-agro-sale.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="167" height="52" class="size-auto"></a>Комплектация овощехранилищ специально разработанным не имеющим аналогов программным обеспечением «AGROsale» по учёту хранения и переработки сельскохозяйственной продукции, а так же управлению логистическими потоками.</td>
 </tr>
 </tbody>
 </table>
@@ -71,7 +71,7 @@
 </ul>
 </li>
 </ul>
-<p><img src="/images/ovoshexranil/6.png" alt="" width="1237" height="444" class="size-auto"></p>
+<p><img src="/images/ovoshexranil/6.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="1237" height="444" class="size-auto"></p>
 <p style="margin-left: 30px;">Проектирование</p>
 <p style="margin-left: 30px;">Этапы проектирования</p>
 <ul style="list-style-type: circle;">
@@ -145,18 +145,21 @@
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><img src="/images/ovoshexranil/7.png" alt="" width="1295" height="310" class="size-auto"></p>
+<p style="text-align: center;"><img src="/images/ovoshexranil/7.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="1295" height="310" class="size-auto"></p>
 <p style="margin-left: 30px;">Климатическое оборудование</p>
 <p style="margin-left: 30px;">&nbsp; &nbsp;Главным преимуществом хранения овощей является минимизация потерь. Разработанные нами способы хранения обеспечивают равномерный доступ воздуха к овощам и позволяют контролировать воздушные потоки. Это в несколько раз снижает потери продукции по сравнению со стандартными способами хранения.<br>&nbsp; &nbsp;Идеальный микроклимат в камерах хранилища создаётся совместной работой холодильной и вентиляционной систем. Их синхронизацией занимается специально разработанное программное обеспечение.<br>&nbsp; &nbsp;Выбор климатического оборудования напрямую зависит от типа и объёма хранящихся овощных культур.</p>
 <p style="text-align: justify; margin-left: 30px;">Вентялиционное оборудование.</p>
 <p style="margin-left: 30px;">&nbsp; &nbsp;Современные системы активной вентиляции бывают двух типов: всасывающая и продувающая. Обе основаны на технологии камеры давления («напорная стена»). При всасывающей системе воздух затягивается из хранилища в камеру давления, а при продувающей наоборот — из камеры нагнетается в хранилище.<br>&nbsp; &nbsp;Общий состав систем вентиляции: напорная стена, вентиляторы, рециркуляционные вентиляторы, впускные/выпускные заслонки (клапаны); датчики температуры и влажности; нагреватели; система автоматизации (контроллер).</p>
 <p style="margin-left: 30px;">Холодильное оборудование</p>
 <p style="margin-left: 30px;">&nbsp; &nbsp;В овощехранилищах применяется два типа охлаждения. Прямой, в единственном контуре которого хладагентом выступает фреон. И косвенный, с двумя контурами и двумя хладагентами: смесью воды с гликолем и фреоном. Выбор системы охлаждения определяется климатом региона, в котором строится овощехранилище.<br>&nbsp; Общий состав холодильной системы: компрессоры, воздухоохладители (в камерах хранения), конденсор, трубопроводы, система автоматики (контроллер), датчики температуры и влажности.</p>
-<p style="text-align: center;">&nbsp;<img style="margin-right: 20px;" src="/images/ovoshexranil/11.jpg" alt="" width="399" height="300" class="size-auto"><img style="margin-right: 20px;" src="/images/ovoshexranil/22.jpg" alt="" width="398" height="299" class="size-auto"><img src="/images/ovoshexranil/33.jpg" alt="" width="396" height="297" class="size-auto"></p>
+<p style="text-align: center;">&nbsp;
+<img style="margin-right: 20px;" src="/images/ovoshexranil/11.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="399" height="300" class="size-auto">
+<img style="margin-right: 20px;" src="/images/ovoshexranil/22.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="398" height="299" class="size-auto">
+<img src="/images/ovoshexranil/33.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="396" height="297" class="size-auto"></p>
 
 <p>Используемое оборудование</p>
 <p>Холодильные и вентиляционные системы, которые мы поставляем, разработаны специально для овощехранилищ. Их комплексное функционирование поддерживает необходимый для овощных культур микроклимат, препятствующий развитию болезней у овощей и снижающий «усушку» продукции.</p>
-<p><img src="/images/ovoshexranil/111.jpg" alt="" class="size-auto"></p>
+<p><img src="/images/ovoshexranil/111.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" class="size-auto"></p>
 <p style="text-align: justify; margin-left: 30px;">&nbsp; &nbsp;Успешная работа овощехранилища заключается в качестве и выгодной продаже продукции. Все овощные культуры - сезонный продукт, а значит, цена в течение года меняется - от самой низкой в сентябре до самой высокой в начале лета. Длительное хранение требует определённого климатического оборудования и не только.</p>
 <p style="margin-left: 30px;">&nbsp; &nbsp;Не достаточно просто дольше хранить продукт для получения выгоды, нужно поддерживать его в надлежащем состоянии. При не соответствующих климатических условиях, в хранилище ускоряется процесс естественной «усушки» овощей, что снижает их вес. Меньше вес - меньше прибыль. К тому же крупные торговые сети ставят ряд условий поставщикам овощей: тщательный отбор, калибровка, промывка, полировка и фасовка, соблюдение температурных и гигиенических условий транспортировки.</p>
 <p style="margin-left: 30px;">Технологическое оборудование.</p>
@@ -179,8 +182,8 @@
 </td>
 </tr>
 <tr>
-<td>&nbsp;<img src="/images/ovoshexranil/121.png" alt="" width="649" height="229" class="size-auto"></td>
-<td>&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="/images/ovoshexranil/212.png" alt="" width="418" height="219" class="size-auto"></td>
+<td>&nbsp;<img src="/images/ovoshexranil/121.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="649" height="229" class="size-auto"></td>
+<td>&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="/images/ovoshexranil/212.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="418" height="219" class="size-auto"></td>
 </tr>
 </tbody>
 </table>

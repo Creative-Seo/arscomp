@@ -2,7 +2,7 @@
 
 		
 <p>Инженерно-геологические изыскания — обязательный этап, предваряющий начало любого строительства. Данные, полученные в результате геотехнич<span style="line-height: 1.3em;">еского исследования&nbsp;</span><span style="line-height: 1.3em;">— определяющий фактор в проектировании фундамента и дальнейшей реализации проекта.&nbsp;</span></p>
-<p><img style="float: right;" src="/images/okpars.ru/uslugi/geologia/8.jpg" alt="" width="300" class="size-auto"></p>
+<p><img style="float: right;" src="/images/okpars.ru/uslugi/geologia/8.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="300" class="size-auto"></p>
 <p><span style="line-height: 1.3em;">ООО ОКП «АРС» предлагает услуги по осуществлению инженерно-геологических изысканий для строительства.</span></p>
 <h2>&nbsp;Основные этапы геологического изыскания для строительства:</h2>
         <ul style="list-style-type: circle;">
@@ -11,7 +11,7 @@
     <li>Определение и прогноз вероятных изменений в геологической среде и породах в ходе строительства и последующей эксплуатации сооружений.&nbsp;</li>
         </ul>
 <p>Результат работы инженера-геолога — определяющий фактор в проектировании зданий и сооружений и последующем строительстве.От результатов геологического изыскания зависят:</p>
-<p><img style="float: right;" src="/images/okpars.ru/uslugi/geologia/10.jpg" alt="" width="300" class="size-auto"></p>
+<p><img style="float: right;" src="/images/okpars.ru/uslugi/geologia/10.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="300" class="size-auto"></p>
         <ul style="list-style-type: circle;">
     <li><span style="line-height: 1.3em;">Выбор участка для будущего строительства;</span></li>
     <li>Выявление наиболее рациональных способов ведения строительных работ;</li>

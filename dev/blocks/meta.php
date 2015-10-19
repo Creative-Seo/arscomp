@@ -20,8 +20,7 @@
 	<link href="/css/meta.css" rel="stylesheet">
 <!-- /build -->
 <!-- build:remove -->
-	<link rel="stylesheet" type="text/css" href="/css/style.css">
-	<link rel="stylesheet/sass" type="text/scss" href="/sass/style.scss">
+	<link href="/css/style.css" rel="stylesheet">
 <!-- /build -->
 <!-- build:template
 	<script>

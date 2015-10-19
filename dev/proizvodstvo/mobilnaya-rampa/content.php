@@ -1,7 +1,7 @@
 <div class="container">
 
 
-<p><br><a class="jcepopup" href="/images/matc/mobrampa/DSCN0778.jpg" target="_blank"><span class="jcemediabox-zoom-span" title="" style="float: right; margin: 0px; padding: 0px; border: 0px none rgb(245, 108, 19); width: 300px;"><img src="/images/matc/mobrampa/DSCN0778.jpg" alt="" width="300" height="225" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;"><span class="jcemediabox-zoom-image"></span></span></a>Мобильная погрузочная рампа, или передвижная эстакада — отличный способ решения актуальных задач в области сбытовой и складской логистики. Эстакада представляет из себя колесную базу, оснащенную буксирным устройством и домкратной системой подъема грузов. Мобильная рампа выступает в работе в качестве своеобразного моста, позволяющего погрузчику иметь прямой свободный доступ к грузу в вагоне или кузове автомобиля.</p>
+<p><br><a class="jcepopup" href="/images/matc/mobrampa/DSCN0778.jpg" target="_blank"><span class="jcemediabox-zoom-span" style="float: right; margin: 0px; padding: 0px; border: 0px none rgb(245, 108, 19); width: 300px;"><img src="/images/matc/mobrampa/DSCN0778.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="300" height="225" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;"><span class="jcemediabox-zoom-image"></span></span></a>Мобильная погрузочная рампа, или передвижная эстакада — отличный способ решения актуальных задач в области сбытовой и складской логистики. Эстакада представляет из себя колесную базу, оснащенную буксирным устройством и домкратной системой подъема грузов. Мобильная рампа выступает в работе в качестве своеобразного моста, позволяющего погрузчику иметь прямой свободный доступ к грузу в вагоне или кузове автомобиля.</p>
 
 <p>Передвижная рампа — незаменимый помощник в случае неудобного расположения дорог и складов или дефицита места, предназначенного для разгрузки товаров.&nbsp;</p>
 
@@ -28,24 +28,22 @@
 <li>Долговременные гарантии.<br><br></li>
         </ul>
 <p>&nbsp;&nbsp;<a class="jcepopup" href="/images/matc/mobrampa/DSCN0783.jpg" target="_blank">
-<span class="jcemediabox-zoom-span" title="" style="margin: 20px; padding: 0px; border: 0px none rgb(245, 108, 19); float: none; width: 150px;">
-<img src="/images/matc/mobrampa/DSCN0783.jpg" alt="" width="150" height="113" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;">
+<span class="jcemediabox-zoom-span" style="margin: 20px; padding: 0px; border: 0px none rgb(245, 108, 19); float: none; width: 150px;">
+<img src="/images/matc/mobrampa/DSCN0783.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="150" height="113" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;">
 <span class="jcemediabox-zoom-image"></span>
 </span>
 </a>
 <a class="jcepopup" href="/images/matc/mobrampa/DSCN0791.jpg" target="_blank">
-<span class="jcemediabox-zoom-span" title="" style="margin: 20px; padding: 0px; border: 0px none rgb(245, 108, 19); float: none; width: 150px;">
-<img src="/images/matc/mobrampa/DSCN0791.jpg" alt="" width="150" height="113" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;">
-<span class="jcemediabox-zoom-image">
-</span>
+<span class="jcemediabox-zoom-span" style="margin: 20px; padding: 0px; border: 0px none rgb(245, 108, 19); float: none; width: 150px;">
+<img src="/images/matc/mobrampa/DSCN0791.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="150" height="113" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;">
+<span class="jcemediabox-zoom-image"></span>
 </span>
 </a>
 <a class="jcepopup" type="image/jpeg" href="/images/matc/mobrampa/DSCN0793.jpg" target="_blank">
-<img style="margin: 20px;" src="/images/matc/mobrampa/DSCN0785.jpg" alt="" width="150" height="113" class="size-auto">
+<img style="margin: 20px;" src="/images/matc/mobrampa/DSCN0785.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="150" height="113" class="size-auto">
 <span class="jcemediabox-zoom-span" title="" style="margin: 20px; padding: 0px; border: 0px none rgb(245, 108, 19); float: none; width: 150px;">
-<img src="/images/matc/mobrampa/DSCN0793.jpg" alt="" width="150" height="113" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;">
-<span class="jcemediabox-zoom-image">	
-</span>
+<img src="/images/matc/mobrampa/DSCN0793.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="150" height="113" class="size-auto" style="margin: 0px; padding: 0px; float: none; border: none;">
+<span class="jcemediabox-zoom-image"></span>
 </span>
 </a>
 </p>

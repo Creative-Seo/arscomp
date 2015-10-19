@@ -1,7 +1,7 @@
 <div class="container">
 
 <p>Основными преимуществами технологии смк, доказанными практикой, по отношению к другим технологиям домостроения являются:</p>
-<p><img style="float: right;" src="/images/matc/karkaz/dom.jpg" alt="" width="300" height="300" class="size-auto"></p>
+<p><img style="float: right;" src="/images/matc/karkaz/dom.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="300" height="300" class="size-auto"></p>
         <ul style="list-style-type: circle;">
     <li>Стоимость материалов. Расход основного сырья и материалов (цемент, щебень, арматура) в 1,5 раза меньше, чем при монолитном и панельном домостроении;</li>
     <li>Увеличение полезной площади на 15-20% в сравнении с кирпичным исполнением;</li>
@@ -19,7 +19,7 @@
     <li>Сокращение транспортных расходов;</li>
     <li>Универсальность элементов, что позволяет их использование при любых архитектурных и конструктивных решениях при программном проектировании.</li>
         </ul>
-<p><img src="/images/matc/karkaz/buk.png" alt="" width="1174" height="894" class="size-auto"></p>
+<p><img src="/images/matc/karkaz/buk.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="1174" height="894" class="size-auto"></p>
 </div>	
 
 				

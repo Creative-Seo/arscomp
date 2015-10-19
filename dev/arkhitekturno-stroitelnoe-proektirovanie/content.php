@@ -2,7 +2,7 @@
 
 
 <p>Архитектурно-строительное проектирование — комплекс услуг по проектированию строительных объектов различного типа и функциональности.&nbsp;</p>
-<p><img src="/images/okpars.ru/uslugi/Bot-1.png" alt="" class="size-auto"></p>
+<p><img src="/images/okpars.ru/uslugi/Bot-1.png" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" class="size-auto"></p>
 <h2>Основные этапы архитектурно-строительного проектирования:&nbsp;</h2>
         <ul style="list-style-type: circle;">
     <li>Создание начального плана;</li>
@@ -29,7 +29,7 @@
 <li>Удобные сроки и адекватная стоимость строительно-монтажных работ;</li>
 <li>Гарантированное соответствие проектной документациями всем необходимым нормам, актуальным стандартам и требованиям.</li>
         </ul>
-<p><img src="/images/okpars.ru/uslugi/tc.jpg" alt="" width="962" height="142" class="size-auto"></p>
+<p><img src="/images/okpars.ru/uslugi/tc.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" width="962" height="142" class="size-auto"></p>
 <h2>&nbsp;Подробный перечень услуг:&nbsp;</h2>
         <ul style="list-style-type: circle;">
     <li>Строительное проектирование — анализ архивных данных, комплекс исследовательских работ, подготовка необходимой документации;</li>

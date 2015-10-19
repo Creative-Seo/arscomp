@@ -3,7 +3,7 @@
 
 <p>ООО ОКП "АРС" расширяет парк строительной техники. В данный момент ведётся закупка спецавтотехники.</p>
 <p>Очень скоро здесь появится информация.</p>
-<p><img src="/images/matc/avto/2012-08-30_231155.jpg" alt="" class="size-auto"></p>
+<p><img src="/images/matc/avto/2012-08-30_231155.jpg" alt="<?php echo $h1;?>" title="<?php echo $h1;?>" class="size-auto"></p>
 </div>	
 
 
