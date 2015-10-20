@@ -3,7 +3,7 @@
 <div class="modal-content">
   <div class="modal-header">
     <button type="button" class="close close-mod" data-dismiss="modal" aria-hidden="true">×</button>
-    <h4 class="modal-title">Оставить заявку</h4>
+    <p class="h4 modal-title">Оставить заявку</p>
   </div>
   <div class="modal-body">
   <div class="contact-form">
