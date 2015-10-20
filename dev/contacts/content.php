@@ -1,7 +1,8 @@
+<div class="container"><h1>Контакты</h1></div>
 <div class="maps">
 	<div id="map" class="maps-block"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=glG3ZPDVhHLtDLxiAp-ycBX_4ZI4TBNt&lang=ru_RU&sourceType=constructor"></script></div>
 </div>
-<?php echo $_SERVER['REQUEST_URI'];?>
+
 <div class="container">
 	<div class="row">
 		<div class="col-sm-4">
@@ -15,7 +16,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-4">
-			<h2 class="contacts-h2">Офис во Москве</h2>	
+			<h2 class="contacts-h2">Офис в Москве</h2>	
 			<p>Территория ОКБ МЭИ Красноказарменная ул. 14 | Корпус 4 офис 505</p>
 			<ul class="list-unstyled">
 				<li><i class="fa fa-phone"></i>8 800 7000 672</li> 
@@ -24,7 +25,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-4">
-			<h2 class="contacts-h2">Офис во Иркутске</h2>	
+			<h2 class="contacts-h2">Офис в Иркутске</h2>	
 			<p>г.Иркутск ул. Декабрьских событий д. 57 офис 505</p>
 			<ul class="list-unstyled">
 				<li><i class="fa fa-phone"></i>+7 (3952) 288 890</li> 

@@ -23,7 +23,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-6 col-md-3" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-			<p class="footer-h2">Офис во Москве</p>	
+			<p class="footer-h2">Офис в Москве</p>	
 			<p>Территория ОКБ МЭИ <span itemprop="streetAddress">Красноказарменная ул. 14</span> | Корпус 4 офис 505</p>
 			<ul class="list-unstyled">
 				<li><i class="fa fa-phone"></i><span itemprop="telephone">8 800 7000 672</span></li> 
@@ -32,7 +32,7 @@
 			</ul>
 		</div>
 		<div class="col-sm-6 col-md-3" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-			<p class="footer-h2">Офис во Иркутске</p>	
+			<p class="footer-h2">Офис в Иркутске</p>	
 			<p>г.Иркутск <span itemprop="streetAddress">ул. Декабрьских событий д. 57</span> офис 505</p>
 			<ul class="list-unstyled">
 				<li><i class="fa fa-phone"></i><span itemprop="telephone">+7 (3952) 288 890</span></li> 

@@ -18,7 +18,7 @@ $(document).ready(function() {
    		autoplayHoverPause:true
    	});
 	$("#owl-news").owlCarousel({
-		items:5,
+		items:4,
 		loop:true,
     	margin:30,
    		autoplay:true,
